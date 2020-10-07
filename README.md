@@ -48,7 +48,7 @@ youtube 精选
 
 大陆新闻解毒                https://www.youtube.com/channel/UC3C919BI3dyDCgQHQVXY6Vg
 
-波特王                     https://www.youtube.com/c/%E6%B3%A2%E7%89%B9%E7%8E%8BPotterKing/videos
+波特王全世界第一個撩總統的Youtuber！https://www.youtube.com/c/%E6%B3%A2%E7%89%B9%E7%8E%8BPotterKing/videos
 
 Fashion Channel            https://www.youtube.com/c/FashionChannel/videos
 
