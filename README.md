@@ -24,7 +24,7 @@ trojan://70bb1dc6-332b-4f82-b536-25559b7eeb49@bigsur.tk:443?allowInsecure=0&allo
 
 
 翻出去看什么
-                        youtube 精选
+youtube 精选
 
 江峰时刻                 https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
 
@@ -47,6 +47,8 @@ trojan://70bb1dc6-332b-4f82-b536-25559b7eeb49@bigsur.tk:443?allowInsecure=0&allo
 吴建民                     https://www.youtube.com/c/%E6%96%AF%E5%87%A1%E5%90%B4%E5%BB%BA%E6%B0%91/videos
 
 大陆新闻解毒                https://www.youtube.com/channel/UC3C919BI3dyDCgQHQVXY6Vg
+
+波特王                     https://www.youtube.com/c/%E6%B3%A2%E7%89%B9%E7%8E%8BPotterKing/videos
 
 Fashion Channel            https://www.youtube.com/c/FashionChannel/videos
 
