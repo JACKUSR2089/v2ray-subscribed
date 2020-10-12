@@ -3,17 +3,16 @@
 
 打赏我 https://www.paypal.com/paypalme/uaa2020
 
-节点2020-10-9更新
+节点2020-10-13更新
 
-v2ray
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTIEFBIDE4MFRCIOaZuuiDvV1AMUdicHPplb/mnJ/ml6DpmZDmtYHph48g6IqC54K55pu05paw6K+36K6i6ZiF5oiR55qEeW91dHViZemikemBk2h0dHBzOi8vYml0Lmx5LzNoMThlRTciLA0KICAiYWRkIjogImRvbmFsZC50cnVtcC5mdWNrLmdmdy5qYTEyMy5tbCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIzMzMxNjNiNy0xYmZjLTQ4YTMtYjg3NC1iMTY4MWZlOTBkOGQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRvbmFsZC50cnVtcC5mdWNrLmdmdy5qYTEyMy5tbCIsDQogICJwYXRoIjogIi80NTU2NGtrIiwNCiAgInRscyI6ICJ0bHMiDQp9
-
-vmess://eyJhZGQiOiJ0eGhrMy5taW5nLmhlLmNuIiwiYWlkIjoyLCJob3N0IjoidHhoazMubWluZy5oZS5jbiIsImlkIjoiODZmMTkxZjktZTRkYS00YjliLTgyOWUtMjlhZDJkODA5ODkxIiwibmV0Ijoid3MiLCJwYXRoIjoiLzFjMmI5Mi8iLCJwb3J0Ijo0NDMsInBzIjoiSEsganDkurLoioLngrnmm7TmlrBodHRwczovL2JpdC5seS8zaDE4ZUU3IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 
 trojan 
 
 
 trojan节点:
+
+trojan://r53y5y345345fg5@trump.fuck.gfw.hhuyyfds.xyz:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+
 trojan://hyhjjk@trump.fuckgfw.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#JP2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 
