@@ -8,18 +8,16 @@
 
 trojan 
 
+v2ray:
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInVzMiBHQ1DoioLngrnmm7TmlrDor7forqLpmIXmiJHnmoR5b3V0dWJl6aKR6YGTaHR0cHM6Ly9iaXQubHkvM2gxOGVFNyIsDQogICJhZGQiOiAidHJ1bXAuZnVjay5nZncuY2xvdWRmbGFyZTIwMjAuZ2EiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTliOGYyZWQtYWQzNi00MTNkLThmOTMtNmQ5MGI0NjQyNWJmIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cnVtcC5mdWNrLmdmdy5jbG91ZGZsYXJlMjAyMC5nYSIsDQogICJwYXRoIjogIi9mZzQ1eWdoIiwNCiAgInRscyI6ICJ0bHMiDQp9
+
 
 trojan节点:
 
-trojan://r53y5y345345fg5@trump.fuck.gfw.hhuyyfds.xyz:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
+trojan://gdfgd35FgfgfGF234R345DGD@trump.fuck.gfw.hhuyyfds.xyz:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#hk%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 trojan://hyhjjk@trump.fuckgfw.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#JP2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-
-trojan://8dcb30aa-00a2-11eb-a3a5-560002fce2d7@trotro.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#JP%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-
-trojan://70bb1dc6-332b-4f82-b536-25559b7eeb49@bigsur.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%20%E9%9F%A9%E5%9B%BD%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 
 翻出去看什么
