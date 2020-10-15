@@ -3,7 +3,7 @@
 
 打赏我 https://www.paypal.com/paypalme/uaa2020
 
-节点2020-10-14更新
+节点2020-10-15更新
 
 
 
@@ -17,8 +17,7 @@ vmess://eyJhZGQiOiI0NS5IS0cuQVNJQS5CSUdBSVJQT1JULk5FVCIsImFpZCI6MiwiaG9zdCI6IiIs
 
 
 trojan节点:
-trojan:
-trojan://hyhjjk@trump.fuckgfw.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#JP2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://hyhjjk@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#JP2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 
 trojan://3474c47d-325d-477c-a57d-3d5e4196391a@trotro.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr1%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
