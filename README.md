@@ -7,7 +7,6 @@
 
 
 
-
 v2ray节点:
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInRydW1wLWZ1Y2stZ2Z3LmNmIiwNCiAgImFkZCI6ICJ0cnVtcC1mdWNrLWdmdy5jZiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0NjI3MzU4MC0wZTFlLTExZWItODQ2Ni00MjAxMGE5MjAwMDUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRydW1wLWZ1Y2stZ2Z3LmNmIiwNCiAgInBhdGgiOiAiL1pKdWJvSFRjLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
@@ -25,8 +24,6 @@ trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInse
 
 trojan://3474c47d-325d-477c-a57d-3d5e4196391a@trotro.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr1%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-
-trojan://95d2d17d-e234-4fb6-8fab-0ad50e3561ba@bigsur.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 
 翻出去看什么
