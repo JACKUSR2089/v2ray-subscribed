@@ -3,11 +3,27 @@
 
 打赏我 https://www.paypal.com/paypalme/uaa2020
 
-节点2020-10-18更新
+节点2020-10-19更新
+
+VLESS节点https://telegra.ph/VLESS-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B62020-10-19-10-19
+VLESS配置文件
+address:      fanqiangdang.ml
+port:           443
+id:               5df8ea24-d42c-732e-98cb-825c9a9d22b6
+flow：         xtls-rprx-origin-udp443
+encryption：none
+remarks       us-Los Angeles节点更新https://bit.ly/3h18eE7
+network:       ws
+type：          none
+host:            fanqiangdang.ml
+path:             /dfgdgfd4ws
+tls                  true
 
 
 
 #v2ray节点:
+
+trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInRydW1wLWZ1Y2stZ2Z3LmNmIiwNCiAgImFkZCI6ICJ0cnVtcC1mdWNrLWdmdy5jZiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0NjI3MzU4MC0wZTFlLTExZWItODQ2Ni00MjAxMGE5MjAwMDUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRydW1wLWZ1Y2stZ2Z3LmNmIiwNCiAgInBhdGgiOiAiL1pKdWJvSFRjLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
