@@ -10,15 +10,25 @@ VLESS节点https://telegra.ph/VLESS-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B62020-10-
 VLESS配置文件
 
 address:      fanqiangdang.ml
+
 port:           443
+
 id:               5df8ea24-d42c-732e-98cb-825c9a9d22b6
+
 flow：         xtls-rprx-origin-udp443
+
 encryption：none
+
 remarks       us-Los Angeles节点更新https://bit.ly/3h18eE7
+
 network:       ws
+
 type：          none
+
 host:            fanqiangdang.ml
+
 path:             /dfgdgfd4ws
+
 tls                  true
 
 
