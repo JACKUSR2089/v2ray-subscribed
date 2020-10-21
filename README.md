@@ -3,7 +3,7 @@
 
 打赏我 https://www.paypal.com/paypalme/uaa2020
 
-节点2020-10-21更新
+节点2020-10-22更新
 
 VLESS节点https://telegra.ph/VLESS-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B62020-10-19-10-19
 
