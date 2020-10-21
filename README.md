@@ -64,6 +64,16 @@ trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=
 trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 
+trojan://0a2b6d5c-5009-4ad6-b7b3-cd82686dff86@trump.fuck.gfw.hhuyyfds.xyz:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://64c9b0ce-8529-0877-10a0-263980c7faf7@cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#2020%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us3%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://1fc0ccfb-afb6-05c8-da88-6406a40887f1@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us4
+trojan://1fc0ccfb-afb6-05c8-da88-6406a40887f1@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us6
+trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://64c9b0ce-8529-0877-10a0-263980c7faf7@cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#2020%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 翻出去看什么
 youtube 精选
