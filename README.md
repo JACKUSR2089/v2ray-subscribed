@@ -1,7 +1,7 @@
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！节点更新https://bit.ly/3h18eE7
 
 
-打赏我 https://www.paypal.com/paypalme/uaa2020
+#打赏我 https://www.paypal.com/paypalme/uaa2020
 
 节点2020-10-22更新
 
@@ -10,6 +10,7 @@ VLESS节点https://telegra.ph/VLESS-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B62020-10-
 VLESS配置文件
 
 -------------------------------------------------------=====================
+
 address:      fanqiangdang.ml
 
 port:           443
@@ -62,72 +63,46 @@ tls true
 VMLESS节点
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsOivt+iuoumYheaIkeeahHlvdXR1YmXpopHpgZNodHRwczovL2JpdC5seS8zaDE4ZUU3IiwNCiAgImFkZCI6ICJmYW5xaWFuZ2RhbmcubWwiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNjg0YzEyYTgtY2IyYi1lMzViLTU2OGEtN2ZhZWVlNGM5YzY4IiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmYW5xaWFuZ2RhbmcubWwiLA0KICAicGF0aCI6ICIvZGZnZGdmZDQiLA0KICAidGxzIjogInRscyINCn0=
 
-
-#v2ray节点:
-
-trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
+vmess://eyJhZGQiOiJ0cnVtcC5mdWNrLmdmdy5oaHV5eWZkcy54eXoiLCJhaWQiOjEsImhvc3QiOiIiLCJpZCI6IjBhMmI2ZDVjLTUwMDktNGFkNi1iN2IzLWNkODI2ODZkZmY4NiIsIm5ldCI6IndzIiwicGF0aCI6Ii8yYWQ0OWM1NGUyNDg0ZTRkd3NzIiwicG9ydCI6NDQzLCJwcyI6InVzIOiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInRydW1wLWZ1Y2stZ2Z3LmNmIiwNCiAgImFkZCI6ICJ0cnVtcC1mdWNrLWdmdy5jZiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0NjI3MzU4MC0wZTFlLTExZWItODQ2Ni00MjAxMGE5MjAwMDUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRydW1wLWZ1Y2stZ2Z3LmNmIiwNCiAgInBhdGgiOiAiL1pKdWJvSFRjLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5ldGhlcmxhbmRzIOWJqeS9mTEwMFRC5pm66IO9XUAxR2Jwc+mVv+acn+aXoOmZkOa1geiKgueCueabtOaWsOivt+iuoumYheaIkeeahHlvdXR1YmXpopHpgZNodHRwczovL2JpdC5seS8zaDE4ZUU3IiwNCiAgImFkZCI6ICJ0cnVtcC5mdWNrLmdmdy5qYTEyMy50ayIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1MDhlYWM1YS1mNWZlLTQzZmMtOGM4Yi04OWU3MDAxMGU0MDEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRydW1wLmZ1Y2suZ2Z3LmphMTIzLnRrIiwNCiAgInBhdGgiOiAiL2dmZGdkZ2prNWZnIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFB6IqC54K55pu05paw6K+36K6i6ZiF5oiR55qEeW91dHViZemikemBk2h0dHBzOi8vYml0Lmx5LzNoMThlRTciLA0KICAiYWRkIjogInBhb2x1ei5zdGFybGluay5jeCIsDQogICJwb3J0IjogIjEwMDc3IiwNCiAgImlkIjogImFhN2U4NzQ4LTQwYTctNDZiYy1hNGJhLWUwZjhlYTA2NDExZiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 
 
-trojan://64c9b0ce-8529-0877-10a0-263980c7faf7@cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#2020%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+
+
+
 
 #trojan节点:
-trojan://02c47c67-c7fb-274f-625c-9903d4b78477@trump.fuck.gfw.trump2021.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#2021%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
+trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-
-trojan://3474c47d-325d-477c-a57d-3d5e4196391a@trotro.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr1%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-
-trojan://0a2b6d5c-5009-4ad6-b7b3-cd82686dff86@trump.fuck.gfw.hhuyyfds.xyz:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
 trojan://64c9b0ce-8529-0877-10a0-263980c7faf7@cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#2020%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us3%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-trojan://1fc0ccfb-afb6-05c8-da88-6406a40887f1@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us4
 
 trojan://1fc0ccfb-afb6-05c8-da88-6406a40887f1@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us6
 
-trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us3%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 trojan://64c9b0ce-8529-0877-10a0-263980c7faf7@cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#2020%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
+trojan://64c9b0ce-8529-0877-10a0-263980c7faf7@cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#2020%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 trojan://0a2b6d5c-5009-4ad6-b7b3-cd82686dff86@trump.fuck.gfw.hhuyyfds.xyz:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://64c9b0ce-8529-0877-10a0-263980c7faf7@cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#2020%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://f6efe9df-195d-4202-b535-34d717bf9c4e@trotro.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us3%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://1d2664a6-5b59-4cb5-856b-0aa89bf76f95@bigsur.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://1fc0ccfb-afb6-05c8-da88-6406a40887f1@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us4
 
-trojan://1fc0ccfb-afb6-05c8-da88-6406a40887f1@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us6
 
-trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-trojan://64c9b0ce-8529-0877-10a0-263980c7faf7@cloudf
-lare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#2020%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 翻出去看什么
 youtube 精选
