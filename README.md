@@ -11,52 +11,55 @@ VLESS配置文件
 
 -------------------------------------------------------=====================
 
-address:      fanqiangdang.ml
+address:        trump.fuck.gfw.cloudflare2020.ml
 
 port:           443
 
-id:               5df8ea24-d42c-732e-98cb-825c9a9d22b6
+id:              da9c766f-069d-809b-848f-2168c09d4fd8
 
-flow：         xtls-rprx-origin-udp443
+flow：          xtls-rprx-origin-udp443
 
-encryption：none
+encryption：     none
 
-remarks       us-Los Angeles节点更新https://bit.ly/3h18eE7
+remarks           us-Los Angeles节点更新https://bit.ly/3h18eE7
 
-network:       ws
+network:          ws
 
 type：          none
 
-host:            fanqiangdang.ml
+host:            trump.fuck.gfw.cloudflare2020.ml
 
-path:             /dfgdgfd4ws
+path:             /kdenws
 
-tls                  true
+tls:              tls
 
+allowinsecure:    true
 --------------------------------------------=============================
 VLESS配置文件
 
-address: cloudflare2020.ml
+address:   fanqiangdang.ml
 
 port: 443
 
-id: 5df8ea24-d42c-732e-98cb-825c9a9d22b6
+id:        5df8ea24-d42c-732e-98cb-825c9a9d22b6
 
-flow： xtls-rprx-origin-udp443
+flow：     xtls-rprx-origin-udp443
 
 encryption：none
 
-remarks us-Los Angeles节点更新https://bit.ly/3h18eE7
+remarks:   us-Los Angeles节点更新https://bit.ly/3h18eE7
 
-network: ws
+network:  ws
 
-type： none
+type：    none
 
-host: cloudflare2020.ml
+host:    fanqiangdang.ml
+   
+path:    /dfgdgfd4ws
 
-path: /dfgfdg56g34534fgfdgws
+tls: tls
 
-tls true
+allowinsecure:true
 
 
 
