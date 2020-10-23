@@ -34,6 +34,7 @@ path:             /kdenws
 tls:              tls
 
 allowinsecure:    true
+
 --------------------------------------------=============================
 VLESS配置文件
 
@@ -49,17 +50,17 @@ encryption：none
 
 remarks:   us-Los Angeles节点更新https://bit.ly/3h18eE7
 
-network:  ws
+network:    ws
 
-type：    none
+type：      none
 
-host:    fanqiangdang.ml
+host:       fanqiangdang.ml
    
-path:    /dfgdgfd4ws
+path:       /dfgdgfd4ws
 
-tls: tls
+tls:             tls
 
-allowinsecure:true
+allowinsecure:   true
 
 
 
