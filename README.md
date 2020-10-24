@@ -3,18 +3,15 @@
 
 #打赏我 https://www.paypal.com/paypalme/uaa2020
 
-节点2020-10-23更新
+节点2020-10-25更新
 
-VLESS节点https://telegra.ph/VLESS-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B62020-10-19-10-19
-
-VLESS配置文件
-
--------------------------------------------------------=====================
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG
+VLESS节点
 
 #样版1
 
 [![Stargazers over time](https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+VLESS配置文件
 
 address:        trump.fuck.gfw.cloudflare2020.ml
 
@@ -137,23 +134,23 @@ trojan://1d2664a6-5b59-4cb5-856b-0aa89bf76f95@bigsur.tk:443?allowInsecure=0&allo
 翻出去看什么
 youtube 精选
 
-江峰时刻                 https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
+江峰时刻                  https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
 
-江峰劇場                 https://www.youtube.com/channel/UCDpWE1rleECw7wFdwTy-hSQ
+江峰劇場                  https://www.youtube.com/channel/UCDpWE1rleECw7wFdwTy-hSQ
 
-天亮時分                 https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw
+天亮時分                  https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw
 
-李肅Hi5第一頻道           https://www.youtube.com/channel/UCvpX0E9dK-40zwYShv186oA
+李肅Hi5第一頻道            https://www.youtube.com/channel/UCvpX0E9dK-40zwYShv186oA
 
-杰森視角                  https://www.youtube.com/channel/UCMIkME37LR7Qc13WtZ2dx3w/videos           
+杰森視角                   https://www.youtube.com/channel/UCMIkME37LR7Qc13WtZ2dx3w/videos           
+ 
+鹿苑工作室                 https://www.youtube.com/channel/UCCyyvppkImJR2JprkGKCWEA
 
-鹿苑工作室                https://www.youtube.com/channel/UCCyyvppkImJR2JprkGKCWEA
+热点互动                   https://www.youtube.com/user/NTDChinaNewsChannel
 
-热点互动                  https://www.youtube.com/user/NTDChinaNewsChannel
+文昭談古論今                https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA
 
-文昭談古論今              https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA
-
-李一平                    https://www.youtube.com/channel/UCLXvE-XNRIs7_GzEsEmMiRw
+李一平                     https://www.youtube.com/channel/UCLXvE-XNRIs7_GzEsEmMiRw
 
 吴建民                     https://www.youtube.com/c/%E6%96%AF%E5%87%A1%E5%90%B4%E5%BB%BA%E6%B0%91/videos
 
@@ -163,9 +160,9 @@ youtube 精选
 
 Fashion Channel            https://www.youtube.com/c/FashionChannel/videos
 
-美国之音                   https://www.youtube.com/user/VOAchina  
+美国之音                    https://www.youtube.com/user/VOAchina  
 
 PewDiePie                  https://www.youtube.com/user/PewDiePie       
 
 
-youtube垃圾脑残 郭文贵 路德社
+youtube垃圾脑残 郭文贵 路德社。
