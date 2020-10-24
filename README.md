@@ -38,11 +38,11 @@ allowinsecure:    true
 --------------------------------------------=============================
 VLESS配置文件
 
-address:   fanqiangdang.ml
+address:   trump2021.ml
 
 port: 443
 
-id:        5df8ea24-d42c-732e-98cb-825c9a9d22b6
+id:        c3944f69-46c7-4b74-949e-ece06b7a4f6c
 
 flow：     xtls-rprx-origin-udp443
 
@@ -54,9 +54,9 @@ network:    ws
 
 type：      none
 
-host:       fanqiangdang.ml
+host:       ftrump2021.ml
    
-path:       /dfgdgfd4ws
+path:       /63e851edb8fa44ws
 
 tls:             tls
 
