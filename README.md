@@ -10,6 +10,11 @@ VLESS节点https://telegra.ph/VLESS-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B62020-10-
 VLESS配置文件
 
 -------------------------------------------------------=====================
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG
+
+#样版1
+
+[![Stargazers over time](https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 address:        trump.fuck.gfw.cloudflare2020.ml
 
@@ -37,6 +42,7 @@ allowinsecure:    true
 
 --------------------------------------------=============================
 VLESS配置文件
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless.PNG
 
 address:   trump2021.ml
 
@@ -62,7 +68,34 @@ tls:             tls
 
 allowinsecure:   true
 
+---------------------------------------------------------------------------------------------------------
 
+VLESS配置文件
+
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless2.PNG
+
+address:   fanqiangdang.ml
+
+port: 443
+
+id:        5df8ea24-d42c-732e-98cb-825c9a9d22b6
+
+flow：     xtls-rprx-origin-udp443
+
+encryption：none
+
+remarks:   us-Los Angeles节点更新https://bit.ly/3h18eE7
+
+network:    ws
+
+type：      none
+
+host:       fanqiangdang.ml
+   
+path:       /dfgdgfd4ws
+tls:             tls
+
+allowinsecure:   true
 
 VMLESS节点
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsOivt+iuoumYheaIkeeahHlvdXR1YmXpopHpgZNodHRwczovL2JpdC5seS8zaDE4ZUU3IiwNCiAgImFkZCI6ICJmYW5xaWFuZ2RhbmcubWwiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNjg0YzEyYTgtY2IyYi1lMzViLTU2OGEtN2ZhZWVlNGM5YzY4IiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmYW5xaWFuZ2RhbmcubWwiLA0KICAicGF0aCI6ICIvZGZnZGdmZDQiLA0KICAidGxzIjogInRscyINCn0=
