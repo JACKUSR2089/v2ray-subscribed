@@ -3,73 +3,16 @@
 
 #打赏我 https://www.paypal.com/paypalme/uaa2020
 
-节点2020-10-25更新
+节点2020-10-26更新
 
 VLESS节点
 
 #样版1
 
-[![Stargazers over time](https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless2.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 VLESS配置文件
-
-address:        trump.fuck.gfw.cloudflare2020.ml
-
-port:           443
-
-id:              da9c766f-069d-809b-848f-2168c09d4fd8
-
-flow：          xtls-rprx-origin-udp443
-
-encryption：     none
-
-remarks           us-Los Angeles节点更新https://bit.ly/3h18eE7
-
-network:          ws
-
-type：          none
-
-host:            trump.fuck.gfw.cloudflare2020.ml
-
-path:             /kdenws
-
-tls:              tls
-
-allowinsecure:    true
-
---------------------------------------------=============================
-VLESS配置文件
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless.PNG
-
-address:   trump2021.ml
-
-port: 443
-
-id:        c3944f69-46c7-4b74-949e-ece06b7a4f6c
-
-flow：     xtls-rprx-origin-udp443
-
-encryption：none
-
-remarks:   us-Los Angeles节点更新https://bit.ly/3h18eE7
-
-network:    ws
-
-type：      none
-
-host:       ftrump2021.ml
-   
-path:       /63e851edb8fa44ws
-
-tls:             tls
-
-allowinsecure:   true
-
----------------------------------------------------------------------------------------------------------
-
-VLESS配置文件
-
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless2.PNG
 
 address:   fanqiangdang.ml
 
@@ -94,38 +37,24 @@ tls:             tls
 
 allowinsecure:   true
 
-VMLESS节点
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsOivt+iuoumYheaIkeeahHlvdXR1YmXpopHpgZNodHRwczovL2JpdC5seS8zaDE4ZUU3IiwNCiAgImFkZCI6ICJmYW5xaWFuZ2RhbmcubWwiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNjg0YzEyYTgtY2IyYi1lMzViLTU2OGEtN2ZhZWVlNGM5YzY4IiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmYW5xaWFuZ2RhbmcubWwiLA0KICAicGF0aCI6ICIvZGZnZGdmZDQiLA0KICAidGxzIjogInRscyINCn0=
+VMESS节点
 
-vmess://eyJhZGQiOiJ0cnVtcC5mdWNrLmdmdy5oaHV5eWZkcy54eXoiLCJhaWQiOjEsImhvc3QiOiIiLCJpZCI6IjBhMmI2ZDVjLTUwMDktNGFkNi1iN2IzLWNkODI2ODZkZmY4NiIsIm5ldCI6IndzIiwicGF0aCI6Ii8yYWQ0OWM1NGUyNDg0ZTRkd3NzIiwicG9ydCI6NDQzLCJwcyI6InVzIOiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInRydW1wLWZ1Y2stZ2Z3LmNmIiwNCiAgImFkZCI6ICJ0cnVtcC1mdWNrLWdmdy5jZiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0NjI3MzU4MC0wZTFlLTExZWItODQ2Ni00MjAxMGE5MjAwMDUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRydW1wLWZ1Y2stZ2Z3LmNmIiwNCiAgInBhdGgiOiAiL1pKdWJvSFRjLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFBIHVzIGdvb2dsZStDRE4gMzAwVEIg5pm66IO9XUAxR2Jwc+mVv+acn+aXoOmZkOa1gemHjyDoioLngrnmm7TmlrDor7forqLpmIXmiJHnmoR5b3V0dWJl6aKR6YGTaHR0cHM6Ly9iaXQubHkvM2gxOGVFNyIsDQogICJhZGQiOiAiZmFucWlhbmdkYW5nLm1sIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjY4NGMxMmE4LWNiMmItZTM1Yi01NjhhLTdmYWVlZTRjOWM2OCIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZmFucWlhbmdkYW5nLm1sIiwNCiAgInBhdGgiOiAiL2RmZ2RnZmQ0IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInVzMiBHT09HTEUgR0NQ6IqC54K55pu05paw6K+36K6i6ZiF5oiR55qEeW91dHViZemikemBk2h0dHBzOi8vYml0Lmx5LzNoMThlRTciLA0KICAiYWRkIjogInRydW1wLmZ1Y2suZ2Z3LmdmdzEyMy5idXp6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjUwMGI4YzY3LWQ5NDEtNGIzNC1hZGEzLTM4YTFhM2FjMWQ5MiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHJ1bXAuZnVjay5nZncuZ2Z3MTIzLmJ1enoiLA0KICAicGF0aCI6ICIvNDU0NTQ1a2s3a2siLA0KICAidGxzIjogInRscyINCn0=
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5ldGhlcmxhbmRzIOWJqeS9mTEwMFRC5pm66IO9XUAxR2Jwc+mVv+acn+aXoOmZkOa1geiKgueCueabtOaWsOivt+iuoumYheaIkeeahHlvdXR1YmXpopHpgZNodHRwczovL2JpdC5seS8zaDE4ZUU3IiwNCiAgImFkZCI6ICJ0cnVtcC5mdWNrLmdmdy5qYTEyMy50ayIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1MDhlYWM1YS1mNWZlLTQzZmMtOGM4Yi04OWU3MDAxMGU0MDEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRydW1wLmZ1Y2suZ2Z3LmphMTIzLnRrIiwNCiAgInBhdGgiOiAiL2dmZGdkZ2prNWZnIiwNCiAgInRscyI6ICJ0bHMiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFBIHVzIGdvb2dsZStDRE4gMzAwVEIg5pm66IO9XUAxR2Jwc+mVv+acn+aXoOmZkOa1gemHjyDoioLngrnmm7TmlrDor7forqLpmIXmiJHnmoR5b3V0dWJl6aKR6YGTaHR0cHM6Ly9iaXQubHkvM2gxOGVFNyIsDQogICJhZGQiOiAidHJ1bXAtZnVjay1nZncuamtpa2piOXk3ODk3LnRrIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImY5Mzk3ZmRjLTIyODgtNDBhZC1iOWE0LTVjYjdiNDYyYjM5MSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHJ1bXAtZnVjay1nZncuamtpa2piOXk3ODk3LnRrIiwNCiAgInBhdGgiOiAiL2RmZnNmMzQ1Z2RmZyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFB6IqC54K55pu05paw6K+36K6i6ZiF5oiR55qEeW91dHViZemikemBk2h0dHBzOi8vYml0Lmx5LzNoMThlRTciLA0KICAiYWRkIjogInBhb2x1ei5zdGFybGluay5jeCIsDQogICJwb3J0IjogIjEwMDc3IiwNCiAgImlkIjogImFhN2U4NzQ4LTQwYTctNDZiYy1hNGJhLWUwZjhlYTA2NDExZiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-
-
-
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInllcyBOZXRoZXJsYW5kcyDliankvZkxMDBUQuaZuuiDvV1AMUdicHPplb/mnJ/ml6DpmZDmtYHoioLngrnmm7TmlrDor7forqLpmIXmiJHnmoR5b3V0dWJl6aKR6YGTaHR0cHM6Ly9iaXQubHkvM2gxOGVFNyIsDQogICJhZGQiOiAiamtpa2piOXk3ODk3LnRrIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjUwOGVhYzVhLWY1ZmUtNDNmYy04YzhiLTg5ZTcwMDEwZTQwMSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiamtpa2piOXk3ODk3LnRrIiwNCiAgInBhdGgiOiAiL2dmZGdkZ2prNWZnIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 
 
 #trojan节点:
 
-trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+E7
 
 trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://GkbcDBEW@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-trojan://64c9b0ce-8529-0877-10a0-263980c7faf7@cloudflare2020.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#2020%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-trojan://1fc0ccfb-afb6-05c8-da88-6406a40887f1@trump.fuck.gfw.cloudflare2020.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us6
-
-trojan://0a2b6d5c-5009-4ad6-b7b3-cd82686dff86@trump.fuck.gfw.hhuyyfds.xyz:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
-
-trojan://f6efe9df-195d-4202-b535-34d717bf9c4e@trotro.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
 trojan://1d2664a6-5b59-4cb5-856b-0aa89bf76f95@bigsur.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
