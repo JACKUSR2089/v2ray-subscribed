@@ -33,7 +33,95 @@ type：      none
 host:       fanqiangdang.ml
    
 path:       /dfgdgfd4ws
+
 tls:             tls
+
+allowinsecure:   true
+
+VLESS2
+
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless1.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+VLESS配置文件
+
+address:   trump.fuck.gfw.cloudflare2020.tk
+
+port: 443
+
+id:        d2cee953-e494-6e38-8b8c-7346a43f5b95
+
+flow：     xtls-rprx-origin-udp443
+
+encryption：none
+
+remarks:   2节点更新https://bit.ly/3h18eE7
+
+network:    tcp
+
+type：      none
+
+host:       fanqiangdang.ml
+   
+  tls:             xtls
+  
+
+allowinsecure:   true
+
+VLESS3
+
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+VLESS配置文件
+address:   solvang.cf
+
+port: 443
+
+id:        12c4dea6-0f16-11eb-a9f8-560003035fd4
+
+flow：     xtls-rprx-origin-udp443
+
+encryption：none
+
+remarks:   3 https://bit.ly/3h18eE7
+
+network:    tcp
+
+type：      none
+
+host:       solvang.cf
+   
+  tls:             tls
+  
+
+allowinsecure:   true
+
+VLESS3
+
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless4.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+VLESS配置文件
+address:   ccpisdevil.ml
+port: 443
+
+id:        12c4dea6-0f16-11eb-a9f8-560003035fd4
+
+flow：     xtls-rprx-origin-udp443
+
+encryption：none
+
+remarks:   us https://bit.ly/3h18eE7
+
+network:    tcp
+
+type：      none
+
+host:       
+   
+  tls:             xtls
+  
 
 allowinsecure:   true
 
