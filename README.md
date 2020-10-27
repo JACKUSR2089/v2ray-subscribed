@@ -47,7 +47,7 @@ VLESS配置文件
 
 address:   trump.fuck.gfw.cloudflare2020.tk
 
-port: 443
+port:        443
 
 id:        d2cee953-e494-6e38-8b8c-7346a43f5b95
 
@@ -74,9 +74,10 @@ VLESS3
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 VLESS配置文件
-address:   solvang.cf
 
-port: 443
+address:     solvang.cf
+
+port:         443
 
 id:        12c4dea6-0f16-11eb-a9f8-560003035fd4
 
@@ -97,14 +98,16 @@ host:       solvang.cf
 
 allowinsecure:   true
 
-VLESS3
+VLESS4
 
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless4.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 VLESS配置文件
-address:   ccpisdevil.ml
-port: 443
+
+address:    ccpisdevil.ml
+
+port:      443
 
 id:        12c4dea6-0f16-11eb-a9f8-560003035fd4
 
@@ -120,7 +123,7 @@ type：      none
 
 host:       
    
-  tls:             xtls
+  tls:            xtls
   
 
 allowinsecure:   true
