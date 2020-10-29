@@ -3,7 +3,7 @@
 
 #打赏我 https://www.paypal.com/paypalme/uaa2020
 
-节点2020-10-26更新
+节点2020-10-29更新
 
 VLESS节点
 
