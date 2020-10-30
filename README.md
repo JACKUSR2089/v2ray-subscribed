@@ -157,7 +157,7 @@ trojan://9dedf4ea-bea6-86da-e5b3-8bb53d423738@trump.fuck.gfw.cloudflare2020.tk:4
 
 trojan://3740e604-ffb1-75e7-aa83-264c5063b042@fanqiangdang.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us-Los%20Angeles%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://56386b61-e6e6-0652-2742-6c1eda6d2b14@fuck.gfw.trump2021.cf:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us3%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
+
  
 翻出去看什么
 youtube 精选
