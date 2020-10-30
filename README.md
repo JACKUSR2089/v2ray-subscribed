@@ -7,7 +7,8 @@
 #打赏我 https://www.paypal.com/paypalme/uaa2020
 
 
-
+为什么很多节点不可用？
+答：
 防民之口甚于防川，中共为确保五中全会加紧媒体管控:https://www.voachinese.com/a/Tightening-media-control-has-become-new-political-normal-in-China-before-major-events-20201027/5637612.html?utm_source=twitter&utm_medium=social&utm_campaign=dlvr.it
 
 
