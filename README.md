@@ -1,42 +1,19 @@
-为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！节点更新https://bit.ly/3h18eE7
+免费提供V2ray节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
+为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
+请升级电脑端和安卓端到最新版，才可以支持trojan和vless！否则会无法使用trojan和vless！
+翻墙的人越多，！墙内被终身洗脑的就觉醒的越多！
 
 
 #打赏我 https://www.paypal.com/paypalme/uaa2020
 
-节点2020-10-30更新
+
+
+防民之口甚于防川，中共为确保五中全会加紧媒体管控:https://www.voachinese.com/a/Tightening-media-control-has-become-new-political-normal-in-China-before-major-events-20201027/5637612.html?utm_source=twitter&utm_medium=social&utm_campaign=dlvr.it
+
+
+节点2020-10-31更新
 
 VLESS节点
-
-#样版1
-
-[![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless2.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
-
-VLESS配置文件
-
-address:   fanqiangdang.ml
-
-port: 443
-
-id:        5df8ea24-d42c-732e-98cb-825c9a9d22b6
-
-flow：     xtls-rprx-origin-udp443
-
-encryption：none
-
-remarks:   us-Los Angeles节点更新https://bit.ly/3h18eE7
-
-network:    ws
-
-type：      none
-
-host:       fanqiangdang.ml
-   
-path:       /dfgdgfd4ws
-
-tls:             tls
-
-allowinsecure:   true
 
 VLESS2
 
@@ -129,6 +106,8 @@ host:
 allowinsecure:   true
 
 VMESS节点
+
+vmess://eyJhZGQiOiIyNC5IS0cuQVNJQS5CSUdBSVJQT1JULk5FVCIsImFpZCI6MiwiaG9zdCI6IiIsImlkIjoiMzFiNGI5ZjgtMWFkMi00OWY0LTgwMTUtNWZkYTVlYTg0YTk3IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6ODAsInBzIjoi44CQQ2hpbmEgVGVsZWNvbeOAkUhLIERpcmVjdCBjb25uZWN0aW9uIDI0IiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFBIHVzIGdvb2dsZStDRE4gMzAwVEIg5pm66IO9XUAxR2Jwc+mVv+acn+aXoOmZkOa1gemHjyDoioLngrnmm7TmlrDor7forqLpmIXmiJHnmoR5b3V0dWJl6aKR6YGTaHR0cHM6Ly9iaXQubHkvM2gxOGVFNyIsDQogICJhZGQiOiAiZmFucWlhbmdkYW5nLm1sIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjY4NGMxMmE4LWNiMmItZTM1Yi01NjhhLTdmYWVlZTRjOWM2OCIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZmFucWlhbmdkYW5nLm1sIiwNCiAgInBhdGgiOiAiL2RmZ2RnZmQ0IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
