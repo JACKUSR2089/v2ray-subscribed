@@ -95,6 +95,31 @@
 节点2020-10-31更新
 
 VLESS节点
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless5.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+address:   tfanqiangdang.ml
+port:        443
+
+id:        ceaf0b3f-cc25-4e27-a311-e67a3da49e3c
+
+flow：     xtls-rprx-origin-udp443
+
+encryption：none
+
+remarks:   us节点更新https://bit.ly/3h18eE7
+
+network:    tcp
+
+type：      none
+
+host:       fanqiangdang.ml
+path:          /18aa28c779c04dfws
+   
+tls:             tls
+
+ allowinsecure:   true
+  
 
 VLESS2
 
@@ -119,7 +144,7 @@ network:    tcp
 
 type：      none
 
-host:       fanqiangdang.ml
+host:       trump.fuck.gfw.cloudflare2020.tk
    
   tls:             xtls
   
@@ -187,7 +212,7 @@ host:
 allowinsecure:   true
 
 VMESS节点
-
+----------------------------------------------------------------------------------------------------------------------------------------
 vmess://eyJhZGQiOiIyNC5IS0cuQVNJQS5CSUdBSVJQT1JULk5FVCIsImFpZCI6MiwiaG9zdCI6IiIsImlkIjoiMzFiNGI5ZjgtMWFkMi00OWY0LTgwMTUtNWZkYTVlYTg0YTk3IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6ODAsInBzIjoi44CQQ2hpbmEgVGVsZWNvbeOAkUhLIERpcmVjdCBjb25uZWN0aW9uIDI0IiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 
 #trojan节点:
@@ -198,7 +223,7 @@ trojan://37ab7146-c1a1-4f85-99d8-3b22c1d73540@fanqiangdang.cf:443?allowInsecure=
 trojan://664994ef-f462-4010-8352-1ae7ca38f363@fuck-gfw.trump2021.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#jp4%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
 trojan://9dedf4ea-bea6-86da-e5b3-8bb53d423738@trump.fuck.gfw.cloudflare2020.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
-------------------------------------------------------------
+
 trojan://f6efe9df-195d-4202-b535-34d717bf9c4e@trotro.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
 trojan://ad1ac8fa-5ada-4016-9cfa-97ca2c338929@fuckxiaofenhong.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#jp%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
@@ -216,6 +241,7 @@ trojan://d3640bf1-53b3-454c-90ed-4ecaab754b26@fuckxiaofenhong.tk:443?allowInsecu
 trojan://5f83fa6c-db2d-4cca-ba2b-5464085eb309@xibun.gq:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
   
   ssr:
+  --------------------------------------------------------------------------------------------------------------------------------------------------------
   ssr://Y20tMDIucHVmZnZpcC5jb206MTA1NTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46VUdGdlpuVS8_b2Jmc3BhcmFtPU5qYzBOalV6T1RZd05pNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09TXprMk1EWTZhVE5uYldGMmFEVTRiV2smcmVtYXJrcz1jMmMmZ3JvdXA9NWFhQzVwNmM
 
 
