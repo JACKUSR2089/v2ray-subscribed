@@ -192,6 +192,7 @@ vmess://eyJhZGQiOiIyNC5IS0cuQVNJQS5CSUdBSVJQT1JULk5FVCIsImFpZCI6MiwiaG9zdCI6IiIs
 
 #trojan节点:
 
+trojan://9dedf4ea-bea6-86da-e5b3-8bb53d423738@trump.fuck.gfw.cloudflare2020.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#trojan%2Ftrump.fuck.gfw.cloudflare2020.tk%3A443-yrzfs
 
 trojan://48819dcc-4d07-4419-8ac8-c2e226b2420f@fuckxiaofenhong.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#jp10%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
