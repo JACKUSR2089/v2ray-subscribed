@@ -95,33 +95,9 @@
 节点2020-10-31更新
 
 VLESS节点
-[![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless5.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
-address:   tfanqiangdang.ml
-port:        443
 
-id:        ceaf0b3f-cc25-4e27-a311-e67a3da49e3c
-
-flow：     xtls-rprx-origin-udp443
-
-encryption：none
-
-remarks:   us节点更新https://bit.ly/3h18eE7
-
-network:    tcp
-
-type：      none
-
-host:       fanqiangdang.ml
-path:          /18aa28c779c04dfws
-   
-tls:             tls
-
- allowinsecure:   true
-  
-
-VLESS2
+VLESS1
 
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless1.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
