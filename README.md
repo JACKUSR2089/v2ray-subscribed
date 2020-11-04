@@ -195,27 +195,43 @@ vmess://eyJhZGQiOiIyNC5IS0cuQVNJQS5CSUdBSVJQT1JULk5FVCIsImFpZCI6MiwiaG9zdCI6IiIs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 trojan://c2d026fe-1581-c018-fe92-8990951035e1@fanqiangdang.ga:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://37ab7146-c1a1-4f85-99d8-3b22c1d73540@fanqiangdang.cf:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#jp%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://9dedf4ea-bea6-86da-e5b3-8bb53d423738@trump.fuck.gfw.cloudflare2020.tk:443#google+us-tk
 
-trojan://664994ef-f462-4010-8352-1ae7ca38f363@fuck-gfw.trump2021.ml:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#jp4%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://9dedf4ea-bea6-86da-e5b3-8bb53d423738@trump.fuck.gfw.cloudflare2020.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://60223984-d356-9ca5-a2aa-ef84e6a396fa@trump.fuck.gfw.fanqiangdang.gq:-1#jp%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://f6efe9df-195d-4202-b535-34d717bf9c4e@trotro.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://ad1ac8fa-5ada-4016-9cfa-97ca2c338929@fuckxiaofenhong.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#jp%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://8244922f-9937-46ba-b9fa-17708e376220@milkgogo.ga:443#%E6%97%A5%E6%9C%AC%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://66756f3a-170d-11eb-a96a-56000308ae9a@fuckxijinping.ga:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr6
-trojan://03035b64-f675-4da6-b16c-f7c6ee9896c2@fuckxijinping.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#kr7%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://f797930d-281b-46fb-88c9-29739fb257d7@fuckxiaofenhong.ga:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#jp6%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://f6efe9df-195d-4202-b535-34d717bf9c4e@trotro.ml:443#%E9%9F%A9%E5%9B%BD3+%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://48819dcc-4d07-4419-8ac8-c2e226b2420f@fuckxiaofenhong.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC
-trojan://ccf4262c-945c-426b-ba47-056195860d18@fuckxiaofenhong.gq:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC1%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://d3640bf1-53b3-454c-90ed-4ecaab754b26@fuckxiaofenhong.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#jp%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+trojan://d3640bf1-53b3-454c-90ed-4ecaab754b26@fuckxiaofenhong.tk:443#jp+%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
-trojan://5f83fa6c-db2d-4cca-ba2b-5464085eb309@xibun.gq:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+trojan://f797930d-281b-46fb-88c9-29739fb257d7@fuckxiaofenhong.ga:443#jp3%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+
+trojan://ad1ac8fa-5ada-4016-9cfa-97ca2c338929@fuckxiaofenhong.ml:443#%E6%97%A5%E6%9C%AC5%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+
+trojan://48819dcc-4d07-4419-8ac8-c2e226b2420f@fuckxiaofenhong.cf:443#%E6%97%A5%E6%9C%AC23%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+
+trojan://ccf4262c-945c-426b-ba47-056195860d18@fuckxiaofenhong.gq:443#%E6%97%A5%E6%9C%AC1%EF%BC%9A%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+
+trojan://03035b64-f675-4da6-b16c-f7c6ee9896c2@fuckxijinping.cf:443#kr%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+
+trojan://66756f3a-170d-11eb-a96a-56000308ae9a@fuckxijinping.ga:443#kr2%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+
+trojan://8244922f-9937-46ba-b9fa-17708e376220@milkgogo.ga:443#%E6%97%A5%E6%9C%AC3%EF%BC%9A%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+
+trojan://5f83fa6c-db2d-4cca-ba2b-5464085eb309@xibun.gq:443#us3%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   ssr:
