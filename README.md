@@ -1,4 +1,4 @@
-#节点2020-11-5更新！
+#节点2020-11-6更新！
 
 免费提供V2ray节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
@@ -92,12 +92,99 @@
 
 观察人士指出，中共两大喉舌媒体同一天更换新社长，绝非巧合，显而易见的是，中共将进一步加大对官媒的领导，并以此引导中国舆论和媒体的走向，为中共总书记习近平，为中国共产党的长期统治“摇旗呐喊”。
 
-节点2020-10-31更新
+
 
 VLESS节点
-
-
 VLESS1
+
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless2.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+VLESS配置文件
+
+address:   chinahumanr.tk
+
+port:        443
+
+id:        3ae270ec-1f42-11eb-83dd-5600030cf0f7
+
+flow：     xtls-rprx-origin-udp443
+
+encryption：none
+
+remarks:   jp节点更新https://bit.ly/3h18eE7
+
+network:    tcp
+
+type：      none
+
+host:       chinahumanr.tk
+   
+  tls:             xtls
+  
+
+allowinsecure:   true
+
+VLESS2
+
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless5.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+VLESS配置文件
+
+address:   trump.fuck.gfw.fanqiangdang.ml
+
+port:        443
+
+id:       780c448c-4576-8936-a35b-8f66bdc5ce03
+
+flow：     xtls-rprx-origin-udp443
+
+encryption：none
+
+remarks:   us节点更新https://bit.ly/3h18eE7
+
+network:    tcp
+
+type：      none
+
+host:       trump.fuck.gfw.fanqiangdang.ml
+   
+  tls:             xtls
+  
+allowinsecure:   true
+
+VLESS3
+
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless6.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+VLESS配置文件
+
+address:   tokyo.fanqiangdang.cf
+
+port:        443
+
+id:     92f17fe6-0f25-8ad7-2759-6e6447dd0e2e
+
+flow：     xtls-rprx-origin-udp443
+
+encryption：none
+
+remarks:  google jp节点更新https://bit.ly/3h18eE7
+
+network:    tcp
+
+type：      none
+
+host:       tokyo.fanqiangdang.cf
+   
+  tls:             xtls
+  
+allowinsecure:   true
+
+
+VLESS4
 
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless1.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
@@ -127,7 +214,7 @@ host:       trump.fuck.gfw.cloudflare2020.tk
 
 allowinsecure:   true
 
-VLESS3
+VLESS5
 
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
@@ -157,7 +244,7 @@ host:       solvang.cf
 
 allowinsecure:   true
 
-VLESS4
+VLESS6
 
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless4.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
@@ -184,7 +271,6 @@ host:
    
   tls:            xtls
   
-
 allowinsecure:   true
 
 VMESS节点
@@ -193,6 +279,13 @@ vmess://eyJhZGQiOiIyNC5IS0cuQVNJQS5CSUdBSVJQT1JULk5FVCIsImFpZCI6MiwiaG9zdCI6IiIs
 
 #trojan节点:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+trojan://780c448c-4576-8936-a35b-8f66bdc5ce03@trump.fuck.gfw.fanqiangdang.ml:443#us+google+%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+trojan://9dedf4ea-bea6-86da-e5b3-8bb53d423738@trump.fuck.gfw.cloudflare2020.tk:443#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+trojan://92f17fe6-0f25-8ad7-2759-6e6447dd0e2e@tokyo.fanqiangdang.cf:443?sni=tokyo.fa#jp%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
+
+
 trojan://c2d026fe-1581-c018-fe92-8990951035e1@fanqiangdang.ga:443?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=1&tfo=1#us%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
 trojan://9dedf4ea-bea6-86da-e5b3-8bb53d423738@trump.fuck.gfw.cloudflare2020.tk:443#google+us-tk
