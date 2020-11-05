@@ -326,11 +326,7 @@ trojan://8244922f-9937-46ba-b9fa-17708e376220@milkgogo.ga:443#%E6%97%A5%E6%9C%AC
 
 trojan://5f83fa6c-db2d-4cca-ba2b-5464085eb309@xibun.gq:443#us3%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AF%B7%E8%AE%A2%E9%98%85%E6%88%91%E7%9A%84youtube%E9%A2%91%E9%81%93https%3A%2F%2Fbit.ly%2F3h18eE7
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  ssr:
-  -----------------------------------------------------------------------------------------------------------
-  
-  ssr://Y20tMDIucHVmZnZpcC5jb206MTA1NTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46VUdGdlpuVS8_b2Jmc3BhcmFtPU5qYzBOalV6T1RZd05pNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09TXprMk1EWTZhVE5uYldGMmFEVTRiV2smcmVtYXJrcz1jMmMmZ3JvdXA9NWFhQzVwNmM
+ ssr ssr://Y20tMDIucHVmZnZpcC5jb206MTA1NTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46VUdGdlpuVS8_b2Jmc3BhcmFtPU5qYzBOalV6T1RZd05pNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09TXprMk1EWTZhVE5uYldGMmFEVTRiV2smcmVtYXJrcz1jMmMmZ3JvdXA9NWFhQzVwNmM
 
 
 
