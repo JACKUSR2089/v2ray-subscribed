@@ -1,4 +1,4 @@
-#节点2020-11-6更新！
+#节点2020-11-8更新！
 
 免费提供V2ray节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
@@ -217,7 +217,7 @@ allowinsecure:   true
 VLESS5
 
 [![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/xibun.ga.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 VLESS配置文件
 
