@@ -221,11 +221,11 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless3.PNG)](https:/
 
 VLESS配置文件
 
-address:     solvang.cf
+address:     xibun.ga
 
 port:         443
 
-id:        12c4dea6-0f16-11eb-a9f8-560003035fd4
+id:        fb3824ba-205d-11eb-b7cd-5600030d7548
 
 flow：     xtls-rprx-origin-udp443
 
@@ -255,7 +255,7 @@ address:    ccpisdevil.ml
 
 port:      443
 
-id:        12c4dea6-0f16-11eb-a9f8-560003035fd4
+id:         1b8554f8-205f-11eb-a97c-5600030d7585
 
 flow：     xtls-rprx-origin-udp443
 
@@ -271,7 +271,7 @@ host:
    
   tls:            xtls
   
-allowinsecure:   true
+allowinsecure:   false
 
 VMESS节点
 ----------------------------------------------------------------------------------------------------------------------------------------
