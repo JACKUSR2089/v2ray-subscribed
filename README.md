@@ -1,4 +1,4 @@
-#节点2020-11-10更新！
+#节点2020-11-11更新！
 
 免费提供V2ray节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
@@ -125,94 +125,7 @@ host:       chinahumanr.tk
 
 allowinsecure:   true
 
-VLESS2
 
-[![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless5.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
-
-VLESS配置文件
-
-address:   trump.fuck.gfw.fanqiangdang.ml
-
-port:        443
-
-id:       780c448c-4576-8936-a35b-8f66bdc5ce03
-
-flow：     xtls-rprx-origin-udp443
-
-encryption：none
-
-remarks:   us节点更新https://bit.ly/3h18eE7
-
-network:    tcp
-
-type：      none
-
-host:       trump.fuck.gfw.fanqiangdang.ml
-   
-  tls:             xtls
-  
-allowinsecure:   true
-
-VLESS3
-
-[![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless6.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
-
-VLESS配置文件
-
-address:   tokyo.fanqiangdang.cf
-
-port:        443
-
-id:     92f17fe6-0f25-8ad7-2759-6e6447dd0e2e
-
-flow：     xtls-rprx-origin-udp443
-
-encryption：none
-
-remarks:  google jp节点更新https://bit.ly/3h18eE7
-
-network:    tcp
-
-type：      none
-
-host:       tokyo.fanqiangdang.cf
-   
-  tls:             xtls
-  
-allowinsecure:   true
-
-
-VLESS4
-
-[![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless1.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
-
-VLESS配置文件
-
-address:   trump.fuck.gfw.cloudflare2020.tk
-
-port:        443
-
-id:        d2cee953-e494-6e38-8b8c-7346a43f5b95
-
-flow：     xtls-rprx-origin-udp443
-
-encryption：none
-
-remarks:   2节点更新https://bit.ly/3h18eE7
-
-network:    tcp
-
-type：      none
-
-host:       trump.fuck.gfw.cloudflare2020.tk
-   
-  tls:             xtls
-  
-
-allowinsecure:   true
 
 VLESS5
 
