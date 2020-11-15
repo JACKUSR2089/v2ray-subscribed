@@ -101,31 +101,32 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless1.PNG)](https:/
 
 VLESS配置文件
 
-address:     xibun.ga
+address:       xibun.ga
 
-port:         443
+port:          443
 
-id:        65255474-2581-11eb-bad5-5600030f8bfe
+id:            65255474-2581-11eb-bad5-5600030f8bfe
 
-flow：     xtls-rprx-origin-udp443
+flow：         xtls-rprx-origin-udp443
 
-encryption：none
+encryption：  none
 
-remarks:    https://bit.ly/3h18eE7
+remarks:    kr节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
 
 network:    tcp
 
 type：      none
 
-host:       xibun.ga
-   
-  tls:             xtls
-  
+host:       
 
+path:
+   
+tls:             xtls
+  
 allowinsecure:   true
 
-
-  chinahumanr.tk
+-------------------------------
+ chinahumanr.tk
  ccpisdevil.ml
 
 VMESS节点
