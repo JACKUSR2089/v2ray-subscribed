@@ -97,39 +97,7 @@ VLESS节点
 VLESS1
 
 [![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless2.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
-
-VLESS配置文件
-
-address:   chinahumanr.tk
-
-port:        443
-
-id:        3ae270ec-1f42-11eb-83dd-5600030cf0f7
-
-flow：     xtls-rprx-origin-udp443
-
-encryption：none
-
-remarks:   jp节点更新https://bit.ly/3h18eE7
-
-network:    tcp
-
-type：      none
-
-host:       chinahumanr.tk
-   
-  tls:             xtls
-  
-
-allowinsecure:   true
-
-
-
-VLESS5
-
-[![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/xibun.ga.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless1.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 VLESS配置文件
 
@@ -137,53 +105,28 @@ address:     xibun.ga
 
 port:         443
 
-id:        fb3824ba-205d-11eb-b7cd-5600030d7548
+id:        65255474-2581-11eb-bad5-5600030f8bfe
 
 flow：     xtls-rprx-origin-udp443
 
 encryption：none
 
-remarks:   3 https://bit.ly/3h18eE7
+remarks:    https://bit.ly/3h18eE7
 
 network:    tcp
 
 type：      none
 
-host:       solvang.cf
+host:       xibun.ga
    
-  tls:             tls
+  tls:             xtls
   
 
 allowinsecure:   true
 
-VLESS6
 
-[![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless4.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
-
-VLESS配置文件
-
-address:    ccpisdevil.ml
-
-port:      443
-
-id:         1b8554f8-205f-11eb-a97c-5600030d7585
-
-flow：     xtls-rprx-origin-udp443
-
-encryption：none
-
-remarks:   us https://bit.ly/3h18eE7
-
-network:    tcp
-
-type：      none
-
-host:       
-   
-  tls:            xtls
-  
-allowinsecure:   false
+  chinahumanr.tk
+ ccpisdevil.ml
 
 VMESS节点
 -------
