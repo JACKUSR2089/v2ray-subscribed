@@ -113,8 +113,8 @@ allowinsecure:   true
  chinahumanr.tk
  ccpisdevil.ml
 
-VMESS节点
--------
+#VMESS#Torjan节点
+-------------------------------
 ~~~
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInR3MSBHT09HRSArQ0RO6IqC54K55pu05paw6K+36K6i6ZiF5oiR55qEeW91dHViZemikemBk2h0dHBzOi8vYml0Lmx5LzNoMThlRTciLA0KICAiYWRkIjogIjEwNC4xNi4xNjAuMTE0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjRlMjdhNWNkLWNhNTgtYjZlMy01NjZlLTIwMWNhNjVhMDM4MSIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHJ1bXAuZnVja2dmdy5jZiIsDQogICJwYXRoIjogIi9wbGNqIiwNCiAgInRscyI6ICJ0bHMiDQp9
