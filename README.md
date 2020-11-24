@@ -8,49 +8,9 @@
 
 #打赏我 https://www.paypal.com/paypalme/uaa2020
 
-
-
-
 VLESS节点
 
 VLESS1
-
-[![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/f.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
-
-VLESS配置文件
-
-address:      trump-fuck-gfw.cloudflare2020.ml
-
-port:          443
-
-id:          52202523-6e84-475d-aeb3-d68534a787fb
-
-
-flow：         xtls-rprx-origin-udp443
-
-encryption：  none
-
-remarks:    jp节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
-
-network:     ws
-
-type：      none
-
-host:            trump-fuck-gfw.cloudflare2020.ml
-
-
-path:           /345gffgfd
-   
-tls:             tls
-  
-allowinsecure:   true
-
-
-
-
-
-VLESS2
 
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless1.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
@@ -77,11 +37,16 @@ host:
 
 path:
    
-tls:             xtls
+tls:             tls
   
 allowinsecure:   true
 
-VLESS 3配置文件
+VLESS 2
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/0.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+
+VLESS 2配置文件
 
 address:       chinahumanr.ml 
 
@@ -107,8 +72,12 @@ tls:             tls
   
 allowinsecure:   true
 
+VLESS 3
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/us.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
-VLESS 4配置文件
+
+VLESS 3配置文件
 
 address:       ccpisdevil.ml 
 
