@@ -29,7 +29,7 @@ encryption：  none
 
 remarks:   jp节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
 
-network:    tcp
+network:    ws
 
 type：      none
 
