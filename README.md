@@ -10,6 +10,38 @@
 
 VLESS节点
 
+VLESS 0
+
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/ml.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+VLESS配置文件
+
+address:       fuckxibaozi.ml
+
+port:          443
+
+id:            4c2a082a-2fc7-11eb-9415-56000313b6cd
+
+flow：         xtls-rprx-origin-udp443
+
+encryption：  none
+
+remarks:   jp节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
+
+network:    tcp
+
+type：      none
+
+host:       fuckxibaozi.ml
+
+path:       /s5xuYp2f/
+   
+tls:                        tls
+  
+allowinsecure:   true
+
+
 VLESS1
 
 [![Stargazers over time](
