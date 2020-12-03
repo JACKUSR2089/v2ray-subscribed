@@ -8,10 +8,13 @@
 
 #打赏我 https://www.paypal.com/paypalme/uaa2020
 
-btc:  
-3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL
+btc:  3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL     BTC-Bitcoin单笔充币大于0.00005BTC-Bitcoin才可以到账
 
-BTC-Bitcoin单笔充币大于0.00005BTC-Bitcoin才可以到账
+ETH： 0xfde5b338c528e07996495f997fb74c87123c0737
+  
+LTC 地址:   3CBbSryJyVJhDTWtdMmPgjyTSTb6Jd8j1s
+
+
 
 USDT-Omni USDT 充币地址:  
 
@@ -21,13 +24,11 @@ USDT-TRC20  USDT充币地址:
 
 TMkRymhb8PzpEFjWVzYyNiwwoGpStcUstr
 
- USDT-ERC20 USDT充币地址:
+USDT-ERC20 USDT充币地址:
  
- 0xfde5b338c528e07996495f997fb74c87123c0737
+0xfde5b338c528e07996495f997fb74c87123c0737
  
-  ETH： 0xfde5b338c528e07996495f997fb74c87123c0737
-  
-  LTC 地址:   3CBbSryJyVJhDTWtdMmPgjyTSTb6Jd8j1s
+ 
 
 VLESS节点
 
