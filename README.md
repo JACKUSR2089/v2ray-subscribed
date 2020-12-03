@@ -8,7 +8,7 @@
 
 #打赏我 https://www.paypal.com/paypalme/uaa2020
 
-btc:  3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL     BTC-Bitcoin单笔充币大于0.00005BTC-Bitcoin才可以到账
+btc:  3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL                                                BTC-Bitcoin单笔充币大于0.00005BTC-Bitcoin才可以到账
 
 ETH： 0xfde5b338c528e07996495f997fb74c87123c0737
   
