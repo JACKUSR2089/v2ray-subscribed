@@ -165,6 +165,8 @@ allowinsecure:   true
 #VMESS#Torjan节点
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImpw6IqC54K55pu05pawIGh0dHBzOi8vYml0Lmx5LzNoMThlRTctY2xvbmUiLA0KICAiYWRkIjogInRydW1wLWZ1Y2stZ2Z3LmNmIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjRmYTc0MzEzLWZlOGYtNzcwOS1jNjlhLTA0MGVmYzkyZDI4ZSIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHJ1bXAtZnVjay1nZncuY2YiLA0KICAicGF0aCI6ICIvZ3RnenUiLA0KICAidGxzIjogInRscyINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImtyMuiKgueCueabtOaWsCBodHRwczovL2JpdC5seS8zaDE4ZUU3IiwNCiAgImFkZCI6ICJkb21haW4wOC5xaXU0Lm1sIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjRiYjkxOTY2LWZiYTQtN2Y0Mi1iNjFjLTFjM2YyNmU0ZDAwMCIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZmFucWlhbmdkYW5nLnRrIiwNCiAgInBhdGgiOiAiL3htZ3hxZmlpbWVsb2Z5a3Zvb3RscGllZmxkbG50cWFtZGMiLA0KICAidGxzIjogInRscyINCn0=
 
 trojan://2e4557b4-bb55-4277-aea8-ec86b0e8cdd9@fuckxiaofenhong.cf:443#jp1111111111111
 trojan://e5adfc47-bd4f-4849-aba1-a6dd55dc7333@chinahright.ml:443#%E6%97%A5%E6%9C%AC2
