@@ -76,7 +76,7 @@ address:       xibun.ga
 
 port:          443
 
-id:            74cf8a30-2e31-11eb-ad4f-560003115f40
+id:           c3450896-3c52-11eb-9a03-560003191f21
 
 flow：         xtls-rprx-origin-udp443
 
