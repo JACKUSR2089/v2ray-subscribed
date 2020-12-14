@@ -102,35 +102,9 @@ allowinsecure:   true
 
 VLESS 3
 
-[![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/us.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 
-VLESS 3配置文件
 
-address:       ccpisdevil.ml 
-
-port:          443
-
-id:           8ddbe4da-2e34-11eb-a7d9-56000312e927
-
-flow：         xtls-rprx-origin-udp443
-
-encryption：  none
-
-remarks:    节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
-
-network:    tcp
-
-type：      none
-
-host:       
-
-path:
-   
-tls:             tls
-  
-allowinsecure:   true
 
 ------------------------------------------+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++---------
  
