@@ -42,24 +42,25 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/fq.PNG)](https://sta
 
 VLESS配置文件
 
-address:     fanqiangdang.tk
+address:       fanqiangdang.tk
+
 port:          443
 
 id:           5f51355e-f7b9-300e-2726-02f447e3be65
 
 flow：         xtls-rprx-origin-udp443
 
-encryption：  none
+encryption：   none
 
-remarks:    kr节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
+remarks:     kr节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
 
-network:    ws
+network:     ws
 
-type：      none
+type：       none
 
 host:       fanqiangdang.tk
 
-path:       /xmgxqfiimelofykvootlpiefldlntqamdc
+path:        /xmgxqfiimelofykvootlpiefldlntqamdc
    
 tls:                                tls
   
