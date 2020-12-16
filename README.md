@@ -60,7 +60,7 @@ type：       none
 
 host:       fanqiangdang.tk
 
-path:        /xmgxqfiimelofykvootlpiefldlntqamdc
+path:        /xmgxqfiimelofykvootlpiefldlntqamdcws
    
 tls:                                tls
   
