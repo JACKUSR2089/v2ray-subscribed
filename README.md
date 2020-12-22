@@ -414,7 +414,7 @@ ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDEwMy45OC43NS43MTo0MDA5Mw=
 翻出去看什么
 youtube 精选
 
-江峰时刻                  https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
+江峰时刻=20个老梁                 https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
 
 江峰劇場                  https://www.youtube.com/channel/UCDpWE1rleECw7wFdwTy-hSQ
 
@@ -428,7 +428,7 @@ youtube 精选
 
 热点互动                   https://www.youtube.com/user/NTDChinaNewsChannel
 
-文昭談古論今                https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA
+新聞最嘲點 Mr.姜光宇        https://www.youtube.com/channel/UC83_OQeEhmLZYsvJ7aTG3Bg
 
 李一平                     https://www.youtube.com/channel/UCLXvE-XNRIs7_GzEsEmMiRw
 
@@ -442,7 +442,9 @@ Fashion Channel            https://www.youtube.com/c/FashionChannel/videos
 
 美国之音                    https://www.youtube.com/user/VOAchina  
 
-PewDiePie                  https://www.youtube.com/user/PewDiePie       
+PewDiePie                  https://www.youtube.com/user/PewDiePie 
+
+文昭談古論今                https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA
 
 
 youtube垃圾脑残： 郭文贵 路德社。stone记 {大外宣} 杨建立 魏京生 何频
