@@ -42,25 +42,25 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/fq.PNG)](https://sta
 
 VLESS配置文件
 
-address:       fanqiangdang.tk
+address:     trump-fuck-gfw.trump2021.tk
 
 port:          443
 
-id:           5f51355e-f7b9-300e-2726-02f447e3be65
+id:           8d1837eb-6164-0a70-054d-3e36d9b266a4
 
 flow：         xtls-rprx-origin-udp443
 
 encryption：   none
 
-remarks:     kr节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
+remarks:     us节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
 
 network:     ws
 
 type：       none
 
-host:       fanqiangdang.tk
+host:       trump-fuck-gfw.trump2021.tk
 
-path:        /xmgxqfiimelofykvootlpiefldlntqamdcws
+path:        /jzzyws
    
 tls:                                tls
   
