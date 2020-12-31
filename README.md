@@ -43,6 +43,7 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/fq.PNG)](https://sta
 VLESS配置文件
 
 address:     trump-fuck-gfw.trump2021.tk
+
 address2:    domain08.qiu4.ml
 
 port:          443
