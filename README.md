@@ -44,8 +44,6 @@ VLESS配置文件
 
 address:     trump-fuck-gfw.trump2021.tk
 
-address2:    domain08.qiu4.ml
-
 port:          443
 
 id:           8d1837eb-6164-0a70-054d-3e36d9b266a4
