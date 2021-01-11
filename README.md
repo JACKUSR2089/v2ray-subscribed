@@ -33,40 +33,9 @@ USDT-ERC20 USDT充币地址:
 
 
 
-VLESS1
 
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/vless1.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
-
-address:     trump-fuck-gfw.trump2021.tk
-
-port:          443
-
-id:           8d1837eb-6164-0a70-054d-3e36d9b266a4
-
-flow：         xtls-rprx-origin-udp443
-
-encryption：   none
-
-remarks:     us节点更新请订阅我的youtube频道https://bit.ly/3h18eE7
-
-network:     ws
-
-type：       none
-
-host:       trump-fuck-gfw.trump2021.tk
-
-path:        /jzzyws
-   
-tls:                                tls
-  
-allowinsecure:   true
-
-
-
-
-
-
 
 
 
