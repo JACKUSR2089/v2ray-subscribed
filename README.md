@@ -146,7 +146,5 @@ Fashion Channel            https://www.youtube.com/c/FashionChannel/videos
 
 PewDiePie                  https://www.youtube.com/user/PewDiePie 
 
-文昭談古論今                https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA
-
 
 youtube垃圾脑残： 郭文贵 路德社。stone记 {大外宣} 杨建立 魏京生 何频
