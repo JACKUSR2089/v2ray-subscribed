@@ -37,17 +37,14 @@ USDT-ERC20 USDT充币地址:
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/cs.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
-vless
 
-vless://3a1f7ce3-54c5-13c4-9a4e-585b8482d23b@icook.tw:443?encryption=none&security=tls&type=ws&host=trump-fuck-gfw.trump2021.tk&path=%2fgqiqws#us%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0+https%3a%2f%2fbit.ly%2f3h18eE7
-
-
-------------------------------------------+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++---------
  
-#VMESS#Torjan节点
+#vless#VMESS#Torjan节点
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
 vless://3a1f7ce3-54c5-13c4-9a4e-585b8482d23b@trump-fuck-gfw.trump2021.tk:443?encryption=none&security=tls&type=ws&host=trump-fuck-gfw.trump2021.tk&path=%2fgqiqws#us%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0+https%3a%2f%2fbit.ly%2f3h18eE7
+
+vless://3a1f7ce3-54c5-13c4-9a4e-585b8482d23b@icook.tw:443?encryption=none&security=tls&type=ws&host=trump-fuck-gfw.trump2021.tk&path=%2fgqiqws#us%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0+https%3a%2f%2fbit.ly%2f3h18eE7
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOXzQ1NCIsDQogICJhZGQiOiAiY20tMS5zc3BsaW5rcy5wdyIsDQogICJwb3J0IjogIjYwMDIiLA0KICAiaWQiOiAiNjJmZTQ1NWYtMWNjYi0zMTlhLTlhMDAtMGMyMDQzYmQxMzQ3IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOXzQ1NSIsDQogICJhZGQiOiAiY3UtMS5zc3BsaW5rcy5wdyIsDQogICJwb3J0IjogIjYwMDIiLA0KICAiaWQiOiAiNjJmZTQ1NWYtMWNjYi0zMTlhLTlhMDAtMGMyMDQzYmQxMzQ3IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIg0KfQ==
