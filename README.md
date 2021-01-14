@@ -39,7 +39,7 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/cs.PNG)](https://sta
 
 
  
-#vless#VMESS#Torjan节点
+#vless#VMESS#Torjan#ss节点
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTQSDoioLngrnmm7TmlrAgaHR0cHM6Ly9iaXQubHkvM2gxOGVFNyIsDQogICJhZGQiOiAidXMudHJ1bXAtZnVjay1nZncudGsiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZjI4OGMzYjEtODdlMy02MmE2LTgyNjUtMWU5ZmY0MzU4Yjg4IiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1cy50cnVtcC1mdWNrLWdmdy50ayIsDQogICJwYXRoIjogIi95enRodndzdndzIiwNCiAgInRscyI6ICJ0bHMiDQp9
