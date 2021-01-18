@@ -2,7 +2,7 @@
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
-请升级电脑端和安卓端到最新版(v2rayN4.5版）才可，才可以支持trojan和vless！否则会无法使用trojan和vless！
+请升级电脑端和安卓端到最新版(v2rayN4.5版）才可以支持trojan和vless！否则会无法使用trojan和vless！
 
 
 
