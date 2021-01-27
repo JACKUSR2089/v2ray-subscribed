@@ -70,7 +70,7 @@ vless://95efa9f1-7da5-424b-b4e9-5ad0d06cbe04@trump-fuck-gfw.trump2021.tk:443?enc
 
 
 
- ssr ：
+ ssr ：ssr://djFjbTAxLnB1ZmZ2aXAuY29tOjEwNTE6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnBsYWluOlVHRnZablUvP29iZnNwYXJhbT1NVFEwT1RFek9UWXdOaTV0YVdOeWIzTnZablF1WTI5dCZwcm90b3BhcmFtPU16azJNRFk2TWpSck5IQmtiamhsZFRJJnJlbWFya3M9VzNZeFhTRHBwcG5tdUs4eSZncm91cD02YnVZNks2azVZaUc1N3VF
 
 
 
