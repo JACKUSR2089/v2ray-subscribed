@@ -39,7 +39,7 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/cs.PNG)](https://sta
 
 
  
-#vless#VMESS#Torjan#ss(节点请升级电脑端和安卓端到最新版(v2rayN4.8版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
+#vless#VMESS#Torjan#ss(请升级电脑端和安卓端到最新版v2rayN4.8版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
 
