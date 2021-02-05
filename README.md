@@ -1,4 +1,4 @@
-2021-2-3更新！
+2021-2-6更新！
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
@@ -42,6 +42,29 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/cs.PNG)](https://sta
 #vless#VMESS#Torjan#ss(请升级电脑端和安卓端到最新版v2rayN4.8版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.19.45.117:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-22%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@amp.cloudflare.com:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-21%e8%81%94%e9%80%9a%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-1%2b%e7%94%b5%e4%bf%a1%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@the-great-awakening.fanqiangdang.cf:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-2%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@icook.tw:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-3%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@www.cloudflare.com:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-4%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@www.garmin.com:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-5%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.18.135.208:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-6%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.20.130.43:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-7%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.25.104.240:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.16.160.114:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-9%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.16.110.238:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-10%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.16.8.157:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-11%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.20.130.175:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-12%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.21.239.147:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-13%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.22.3.3:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-14%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.22.4.180:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-15%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.22.44.50:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-16%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@172.67.223.77:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-17%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@172.67.209.58:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-18%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@172.25.175.69:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-19%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.20.81.240:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-20%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIwMjEtMi0z5pu05pawIiwNCiAgImFkZCI6ICJjbG91ZGZsYXJlMjAyMC5nYSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI5YjNjOTE2NS1jODU2LTQwMmUtYjZhZS0yOGQ5ZjZjYjgyYjMiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNsb3VkZmxhcmUyMDIwLmdhIiwNCiAgInBhdGgiOiAiL3NvbW12d3MiLA0KICAidGxzIjogInRscyINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInVzMi0yMuenu+WKqCDoioLngrnmm7TmlrAgaHR0cHM6Ly9iaXQubHkvM2gxOGVFNyIsDQogICJhZGQiOiAiMTA0LjE5LjQ1LjExNyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI5YjNjOTE2NS1jODU2LTQwMmUtYjZhZS0yOGQ5ZjZjYjgyYjMiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNsb3VkZmxhcmUyMDIwLmdhIiwNCiAgInBhdGgiOiAiL3NvbW12d3MiLA0KICAidGxzIjogInRscyINCn0=
