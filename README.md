@@ -1,4 +1,4 @@
-2021-2-6更新！
+2021-2-8更新！
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
@@ -64,6 +64,7 @@ vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@172.67.223.77:443?encryption=none&s
 vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@172.67.209.58:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-18%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
 vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@172.25.175.69:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-19%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
 vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.20.81.240:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-20%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+
 ss://YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2QDg0LjE3LjU3LjY2OjMxNzY0#by+%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7---1
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDQ1Ljg3LjIxMy41OjM5Nzcy#by+%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7---2
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDg0LjE3LjU3LjczOjMzOTky#by+%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7---3
