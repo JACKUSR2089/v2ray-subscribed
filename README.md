@@ -39,7 +39,7 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/cs.PNG)](https://sta
 
 
  
-#vless#VMESS#Torjan#ss(请升级电脑端和安卓端到最新版v2rayN4.8版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
+#vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.8版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
 vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.19.45.117:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-22%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
