@@ -1,4 +1,4 @@
-2021-2-8更新！
+2021-2-10更新！
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
@@ -42,6 +42,29 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/cs.PNG)](https://sta
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.8版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.19.45.117:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-22%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@amp.cloudflare.com:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-21%e8%81%94%e9%80%9a%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-1%2b%e7%94%b5%e4%bf%a1%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@The-Great-Awakening.fuckgfw.cf:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-2%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@icook.tw:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-3%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@www.cloudflare.com:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-4%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@www.garmin.com:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-5%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.18.135.208:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-6%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.20.130.43:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-7%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.25.104.240:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.16.160.114:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-9%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.16.110.238:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-10%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.16.8.157:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-11%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.20.130.175:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-12%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.21.239.147:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-13%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.22.3.3:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-14%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.22.4.180:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-15%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.22.44.50:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-16%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@172.67.223.77:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-17%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@172.67.209.58:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-18%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@172.25.175.69:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-19%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+vless://fc355cbf-0084-40ab-b156-00b84051b0c9@104.20.81.240:443?encryption=none&security=tls&type=ws&host=The-Great-Awakening.fuckgfw.cf&path=%2fThe-Great-Awakening_ws#TW-20%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
+
 vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@104.19.45.117:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-22%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
 vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@amp.cloudflare.com:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-21%e8%81%94%e9%80%9a%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
 vless://fc7ef5c4-92a8-494c-91f6-44daf350e8ec@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=the-great-awakening.fanqiangdang.cf&path=%2fThe-Great-Awakeningws#jp.Osaka-1%2b%e7%94%b5%e4%bf%a1%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
