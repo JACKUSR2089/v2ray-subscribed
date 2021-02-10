@@ -32,7 +32,6 @@ USDT-ERC20 USDT充币地址:
  
 
 
-
 --------------------------------
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/cs.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
@@ -42,6 +41,16 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/cs.PNG)](https://sta
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.8版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTcgLS0tLTQiLA0KICAiYWRkIjogInYxLWF3cy1rci0wNS50dWRvZy5tZSIsDQogICJwb3J0IjogIjEwODAiLA0KICAiaWQiOiAiM2RiZThlZjgtMGQ5Mi0zZDQwLTljZTktMzI5Njc3ZmE3OTZjIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2MS1hd3Mta3ItMDUudHVkb2cubWUiLA0KICAicGF0aCI6ICIvdHVkb2ciLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTcgLS0tLTUiLA0KICAiYWRkIjogInYxLWF3cy1rci0wNS50dWRvZy5tZSIsDQogICJwb3J0IjogIjEwODAiLA0KICAiaWQiOiAiYWM3NTBiZDMtNmJjNy0zODgxLWEzNGYtYjUyYmYyMmFhZGQ2IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2MS1hd3Mta3ItMDUudHVkb2cubWUiLA0KICAicGF0aCI6ICIvdHVkb2ciLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTcgLS0tLTYiLA0KICAiYWRkIjogInYxLWF3cy1rci0wMy50dWRvZy5tZSIsDQogICJwb3J0IjogIjEwODAiLA0KICAiaWQiOiAiN2MzOTkyYzAtZTZjZS0zZTJhLWExNmQtNWFlOGM3MmZlMDg4IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2MS1hd3Mta3ItMDMudHVkb2cubWUiLA0KICAicGF0aCI6ICIvdHVkb2ciLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTcgLS0tLTciLA0KICAiYWRkIjogInYxLWF3cy1rci0wNi50dWRvZy5tZSIsDQogICJwb3J0IjogIjEwODAiLA0KICAiaWQiOiAiYWM3NTBiZDMtNmJjNy0zODgxLWEzNGYtYjUyYmYyMmFhZGQ2IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2MS1hd3Mta3ItMDYudHVkb2cubWUiLA0KICAicGF0aCI6ICIvdHVkb2ciLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTcgLS0tLTkiLA0KICAiYWRkIjogIjU0LjE4MC4xMDIuMjMwIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNjQyNWNiZWItMDViNS00NzYxLWZmNjItODM3OTYyYzQwZDU3IiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI1NC4xODAuMTAyLjIzMCIsDQogICJwYXRoIjogIi9kd24iLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTcgLS0tLTEyIiwNCiAgImFkZCI6ICIzLjM0Ljk5LjE1NyIsDQogICJwb3J0IjogIjEwODAiLA0KICAiaWQiOiAiYWM3NTBiZDMtNmJjNy0zODgxLWEzNGYtYjUyYmYyMmFhZGQ2IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIzLjM0Ljk5LjE1NyIsDQogICJwYXRoIjogIi90dWRvZyIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTcgLS0tLTE0IiwNCiAgImFkZCI6ICJhd3N4anAxLnFsc3N2aXAueHl6IiwNCiAgInBvcnQiOiAiMzAwMDIiLA0KICAiaWQiOiAiYmFiOTQyY2EtYzk4Yy00NzhhLThiMjQtMGJiMjkyYWY2YzkyIiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhd3N4anAxLnFsc3N2aXAueHl6IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNoMThlRTcgLS0tLTE1IiwNCiAgImFkZCI6ICI1Mi4yMjEuMjQ1LjEyMyIsDQogICJwb3J0IjogIjMwMDAyIiwNCiAgImlkIjogImJhYjk0MmNhLWM5OGMtNDc4YS04YjI0LTBiYjI5MmFmNmM5MiIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiNTIuMjIxLjI0NS4xMjMiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiDQp9
+
+
 vless://2979ce99-e676-4cfc-aee0-0c1285aeb8d9c@104.19.45.117:443?encryption=none&security=tls&type=ws&host=trump-fuck-gfw.cloudflare2020.tk&path=%2fThe-Great-Awakening_ws#us-22%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
 vless://2979ce99-e676-4cfc-aee0-0c1285aeb8d9c@amp.cloudflare.com:443?encryption=none&security=tls&type=ws&host=trump-fuck-gfw.cloudflare2020.tk&path=%2fThe-Great-Awakening_ws#us-21%e8%81%94%e9%80%9a%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
 vless://2979ce99-e676-4cfc-aee0-0c1285aeb8d9c@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=trump-fuck-gfw.cloudflare2020.tk&path=%2fThe-Great-Awakening_ws#us-1%2b%e7%94%b5%e4%bf%a1%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
