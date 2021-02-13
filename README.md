@@ -1,4 +1,4 @@
-2021-2-12
+2021-2-13
 更新！
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
@@ -35,7 +35,7 @@ USDT-ERC20 USDT充币地址:
 
 --------------------------------
 [![Stargazers over time](
-https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/cs.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/2-13.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 
  
