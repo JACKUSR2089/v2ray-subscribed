@@ -1,4 +1,4 @@
-2021-2-25
+2021-2-26
 更新！
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
@@ -76,7 +76,7 @@ youtube 精选
 
 我的频道                       https://bit.ly/3h18eE7
  
-江峰时刻=20个老梁                 https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
+江峰时刻=100个老梁                 https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
 
 江峰劇場                  https://www.youtube.com/channel/UCDpWE1rleECw7wFdwTy-hSQ
 
