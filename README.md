@@ -32,7 +32,7 @@ USDT-ERC20 USDT充币地址:
 0xfde5b338c528e07996495f997fb74c87123c0737
  
  
-朋友注意啦，用安全的VPN，下面几款VPN出状况了‼️💥⚠️🔥
+朋友注意啦，下面几款VPN出状况了‼️💥⚠️🔥
 
 ⚠️SuperVPN，GeckoVPN，ChatVPN三款VPN一共2100万用户数据在黑客论坛出售‼️
 
