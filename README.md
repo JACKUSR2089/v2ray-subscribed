@@ -1,4 +1,4 @@
-2021-3-8
+2021-3-9
 
 更新！
 
@@ -49,6 +49,10 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/2-13.PNG)](https://s
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.11版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
+
+vless://0926b599-3683-49e0-b53a-2cbfa87b4826@trump-fuck-gfw.cloudflare2020.ga:443?encryption=none&security=tls&type=ws&host=trump-fuck-gfw.cloudflare2020.ga&path=%2fThe-Great-Awakening_ws#kr+%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0+https%3a%2f%2fbit.ly%2f3h18eE7
+
+vless://401a8bf9-bf6d-4138-a71a-d18259e74faf@trump-fuck-gfw.cloudflare2020.ga:443?encryption=none&security=tls&type=ws&host=cloudflare2020.ml&path=%2fThe-Great-Awakening_ws#us+%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0+https%3a%2f%2fbit.ly%2f3h18eE7
 
 
 vless://2979ce99-e676-4cfc-aee0-0c1285aeb8d9@amp.cloudflare.com:443?encryption=none&security=tls&type=ws&host=trump-fuck-gfw.cloudflare2020.tk&path=%2fThe-Great-Awakening_ws#us-21%e8%81%94%e9%80%9a%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3h18eE7
