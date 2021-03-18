@@ -7,8 +7,9 @@
 请升级电脑端和安卓端到最新版(v2rayN4.11版）才可以支持trojan和vless！否则会无法使用trojan和vless！
 
 
-
-#打赏我 https://www.paypal.com/paypalme/uaa2020
+#接受小额赞助、欢迎用金钱来狠狠的羞辱我羞辱羞辱我
+ 
+ZCash (ZEC) : t3Pbxius4GPSKTnipGRLK9JegorvnRvr2za
 
 BTC:   3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL                               
 BTC-Bitcoin单笔充币大于0.00005BTC-Bitcoin才可以到账
