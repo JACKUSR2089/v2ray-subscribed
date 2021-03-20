@@ -1,0 +1,44 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+  - name: 节点更新5https://bit.ly/3h18eE7
+    server: a1.ap.fastqvpn.com
+    port: 29980
+    type: http
+    username: 403654808050860000
+    password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
+    tls: true
+  - name: 节点更新6https://bit.ly/3h18eE7
+    server: a1.ap.fastqvpn.com
+    port: 29980
+    type: http
+    username: 416883996819980300
+    password: 291b11d8-a2ab-4ddc-a5bc-f1cb3dc513f0
+    tls: true
+  - name: 节点更新7https://bit.ly/3h18eE7
+    server: a1.ap.fastqvpn.com
+    port: 29980
+    type: http
+    username: 418608943162458100
+    password: 41a6e1aa-56ab-4c93-b3dc-a4604ee5c871
+    tls: true
+  - name: 节点更新8https://bit.ly/3h18eE7
+    server: a1.ap.fastqvpn.com
+    port: 29980
+    type: http
+    username: 407636383960662000
+    password: cf2ae62a-8c5a-48c0-a7ad-c1f45fd40ae5
+    tls: true
+  - name: 节点更新9https://bit.ly/3h18eE7
+    server: a1.ap.fastqvpn.com
+    port: 29980
+    type: http
+    username: 416925204208418800
+    password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9
+    tls: true
+  - name: 节点更新10https://bit.ly/3h18eE7
+    server: a1.ap.fastqvpn.com
