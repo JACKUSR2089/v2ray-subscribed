@@ -1,4 +1,4 @@
-2021-3-30
+2021-4-1
 
 更新！
 
@@ -50,6 +50,10 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/3-28.PNG)](https://s
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.11版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktSLTIy56e75YqoQDFHYnBzIOiKgueCueabtOaWsCBodHRwczovL2JpdC5seS8zaDE4ZUU3IiwNCiAgImFkZCI6ICIxMDQuMTkuNDUuMTE3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjI2ODA2ZDI1LTY5OTctNDVkZi04ZWQ5LWJiNGJmYzFkNjA3OSIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidmluY2VudC1qYWNrc29uLm1sIiwNCiAgInBhdGgiOiAiL1RoZS1HcmVhdC1Bd2FrZW5pbmdfdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktSLTIx6IGU6YCaQDFHYnBzIOiKgueCueabtOaWsCBodHRwczovL2JpdC5seS8zaDE4ZUU3IiwNCiAgImFkZCI6ICJhbXAuY2xvdWRmbGFyZS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMjY4MDZkMjUtNjk5Ny00NWRmLThlZDktYmI0YmZjMWQ2MDc5IiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2aW5jZW50LWphY2tzb24ubWwiLA0KICAicGF0aCI6ICIvVGhlLUdyZWF0LUF3YWtlbmluZ192d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktSLTHnlLXkv6FAMUdicHMg6IqC54K55pu05pawIGh0dHBzOi8vYml0Lmx5LzNoMThlRTciLA0KICAiYWRkIjogInd3dy5kaWdpdGFsb2NlYW4uY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjI2ODA2ZDI1LTY5OTctNDVkZi04ZWQ5LWJiNGJmYzFkNjA3OSIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidmluY2VudC1qYWNrc29uLm1sIiwNCiAgInBhdGgiOiAiL1RoZS1HcmVhdC1Bd2FrZW5pbmdfdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+
 
 vless://1a54e756-d454-45a0-aefa-e9514e1da1f1@www.cloudflare.com:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.cf&path=%2fThe-Great-Awakening_ws#vincent-jackson2021%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0+https%3a%2f%2fbit.ly%2f3h18eE7+++
 vless://a9cd126a-7c05-41af-ad0e-a185eabc89c8@www.cloudflare.com:443?encryption=none&security=tls&type=ws&host=vincent-jackson.cf&path=%2fThe-Great-Awakening_ws#incent-jackson.cf+%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0+https%3a%2f%2fbit.ly%2f3h18eE7+++
