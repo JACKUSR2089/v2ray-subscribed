@@ -118,4 +118,5 @@ PewDiePie                  https://www.youtube.com/user/PewDiePie
 
 如何識別五毛？             https://www.youtube.com/watch?v=5Vk9DolqsWU&ab_channel=%E6%9D%8E%E8%82%85Hi5%E7%AC%AC%E4%B8%80%E9%A0%BB%E9%81%93
 
-youtube垃圾脑残： 郭文贵(脑残教主)  路德社。   stone记 {大外宣}  杨建立  魏京生   何频（高级五毛，特务）  明鏡集團（cctv海外版）
+youtube垃圾脑残： 郭文贵(脑残教主)  路德社。   stone记 {大外宣}  杨建立  魏京生   何频（高级五毛，特务）  明鏡集團（cctv海外版）環球時報(胡錫進 )观察者网(中国小丑董佳宁sb)
+https://www.youtube.com/watch?v=a7F_BgweuTA
