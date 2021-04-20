@@ -8,6 +8,7 @@
 
 
 #接受小额赞助、欢迎用金钱来狠狠的羞辱我羞辱羞辱我
+
 DOGE（狗狗币）地址： A3niwzgC8KoRVVSFFbgUwbfetBQAt1T6Wg
 
 ZCash (ZEC) : t3Pbxius4GPSKTnipGRLK9JegorvnRvr2za
