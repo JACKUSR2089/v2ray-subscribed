@@ -15,16 +15,16 @@
 
 DOGE（狗狗币）地址： A3niwzgC8KoRVVSFFbgUwbfetBQAt1T6Wg
 
-ZCash (ZEC) : t3Pbxius4GPSKTnipGRLK9JegorvnRvr2za
+ZCash (ZEC) :  t3Pbxius4GPSKTnipGRLK9JegorvnRvr2za
 
-Monero(XMR)币:  845t4i3dSScgyhivRf7WoRPQemWJ6ZfMPhfUuL9Ds6e3Vuj43ArEVmDXdFYA2XvWGD2S5r3ZDqMNwiPiGV1yB4TvFaZ7rFc
+Monero(XMR)币:    845t4i3dSScgyhivRf7WoRPQemWJ6ZfMPhfUuL9Ds6e3Vuj43ArEVmDXdFYA2XvWGD2S5r3ZDqMNwiPiGV1yB4TvFaZ7rFc
 
 (最小充值金额：0.01 XMR，小于最小金额的充值将不会上账且无法退回)
 
-BTC:   3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL                               
+BTC:    3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL                               
 BTC-Bitcoin单笔充币大于0.00005BTC-Bitcoin才可以到账
 
-ETH： 0xfde5b338c528e07996495f997fb74c87123c0737
+ETH：  0xfde5b338c528e07996495f997fb74c87123c0737
   
 LTC 地址:   3CBbSryJyVJhDTWtdMmPgjyTSTb6Jd8j1s
 
