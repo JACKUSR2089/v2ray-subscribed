@@ -5,17 +5,21 @@
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
 请升级电脑端和安卓端到最新版(v2rayN4.11版）才可以支持trojan和vless！否则会无法使用trojan和vless！
-
+               
 请使用外国浏览器访问，例如google chrome 浏览器,火狐浏览器(Firefox), Microsoft Edge浏览器等
 别使用国内的360浏览器，腾讯浏览器，UC浏览器，微信浏览器。。。国内的浏览器都是封锁帮凶。
 如果你的电脑上安装360杀毒软件，请马上删掉。
 提示：微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。
 
-#接受小额赞助、欢迎用金钱来狠狠的羞辱我羞辱羞辱我
+#接受小额赞助、欢迎用金钱来狠狠的羞辱我!羞辱羞辱我!
 
 DOGE（狗狗币）地址： A3niwzgC8KoRVVSFFbgUwbfetBQAt1T6Wg
 
 ZCash (ZEC) : t3Pbxius4GPSKTnipGRLK9JegorvnRvr2za
+
+Monero(XMR)币:  845t4i3dSScgyhivRf7WoRPQemWJ6ZfMPhfUuL9Ds6e3Vuj43ArEVmDXdFYA2XvWGD2S5r3ZDqMNwiPiGV1yB4TvFaZ7rFc
+
+(最小充值金额：0.01 XMR，小于最小金额的充值将不会上账且无法退回)
 
 BTC:   3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL                               
 BTC-Bitcoin单笔充币大于0.00005BTC-Bitcoin才可以到账
