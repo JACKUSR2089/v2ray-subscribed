@@ -1,0 +1,1756 @@
+mixed-port: 7890
+allow-lan: false
+ipv6: false
+mode: Rule
+log-level: silent
+dns:
+  enable: true
+  ipv6: false
+  nameserver:
+    - https://dns.aa.net.uk/dns-query
+    - https://dns.arapurayil.com/dns-query
+    - https://dns1.ryan-palmer.com/dns-query
+    - https://doh-2.seby.io:443/dns-query
+    - https://dns.nextdns.io/dnscrypt-proxy
+    - https://doh.libredns.gr/dns-query
+    - https://dnsforge.de/dns-query
+    - https://dns.alidns.com/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.dnshome.de/dns-query
+    - https://doh.pi-dns.com/dns-query
+    - https://dns.quad9.net/dns-query
+    - https://dnses.alekberg.net/dns-query
+    - tls://dns.quad9.net:853
+    - tls://cloudflare-dns.com:853
+    - tls://dns.google:853
+    - tls://dot.xfinity.com:853
+    - tls://dns.aa.net.uk:853
+    - tls://dns.quad9.net:853
+    - tls://dot.libredns.gr:853
+    - tls://185.253.154.66:4343
+    - tls://116.202.176.26:853
+proxies:
+  - name: AU 🇦🇺 Sydney
+    server: 180.149.228.27
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: BA 🇧🇦 Sarajevo
+    server: 185.99.3.94
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: BE 🇧🇪 Brussels 1
+    server: 194.110.115.83
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: BE 🇧🇪 Brussels 2
+    server: 185.210.217.187
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: CO 🇨🇴 Bogota
+    server: 45.129.32.34
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: CR 🇨🇷 San Jose
+    server: 176.222.34.115
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: CY 🇨🇾 Nicosia
+    server: 195.47.194.42
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: CZ 🇨🇿 Prague
+    server: 185.180.14.149
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DE 🇩🇪 Berlin 1
+    server: 193.29.106.13
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DE 🇩🇪 Berlin 2
+    server: 193.29.106.29
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DE 🇩🇪 Berlin 3
+    server: 193.29.106.19
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DE 🇩🇪 Berlin 4
+    server: 193.29.106.51
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DE 🇩🇪 Frankfurt am Main 1
+    server: 185.102.219.48
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DE 🇩🇪 Frankfurt am Main 2
+    server: 82.102.16.100
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DE 🇩🇪 Frankfurt am Main 3
+    server: 156.146.33.67
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DE 🇩🇪 Frankfurt am Main 4
+    server: 195.181.174.228
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DE 🇩🇪 Munich 2
+    server: 213.136.64.21
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: DK 🇩🇰 Copenhagen
+    server: 193.29.107.179
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: ES 🇪🇸 Barcelona
+    server: 185.188.61.25
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: ES 🇪🇸 Madrid
+    server: 188.208.141.98
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: ES 🇪🇸 Valencia
+    server: 185.153.150.50
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FI 🇫🇮 Helsinki 4
+    server: 196.244.191.109
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Bordeaux 1
+    server: 185.108.106.100
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Bordeaux 2
+    server: 185.166.84.29
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Bordeaux 3
+    server: 185.166.84.95
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Bordeaux 4
+    server: 185.166.84.77
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Marseille 2
+    server: 143.244.57.110
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Marseille 3
+    server: 138.199.16.142
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Marseille 4
+    server: 138.199.16.135
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Paris 1
+    server: 143.244.57.91
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Paris 2
+    server: 185.108.106.156
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Paris 3
+    server: 185.108.106.69
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: FR 🇫🇷 Paris 4
+    server: 185.108.106.102
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 Glasgow 1
+    server: 185.108.105.180
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 Glasgow 2
+    server: 185.108.105.153
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 Glasgow 3
+    server: 185.108.105.176
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 Glasgow 4
+    server: 185.108.105.174
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 London 1
+    server: 185.114.224.119
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 London 2
+    server: 5.226.139.234
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 London 3
+    server: 185.38.150.124
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 London 4
+    server: 5.226.139.216
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 Manchester 1
+    server: 139.28.176.53
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 Manchester 2
+    server: 91.90.121.163
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 Manchester 3
+    server: 194.37.98.211
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GB 🇬🇧 Manchester 4
+    server: 89.238.141.197
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: GR 🇬🇷 Athens
+    server: 194.150.167.30
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: HK 🇭🇰 Hong Kong
+    server: 84.17.37.160
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: HR 🇭🇷 Zagreb
+    server: 176.222.34.121
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IE 🇮🇪 Dublin
+    server: 23.92.127.91
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IL 🇮🇱 Tel Aviv
+    server: 87.239.255.121
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IN 🇮🇳 Chennai
+    server: 103.94.27.229
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IN 🇮🇳 Indore
+    server: 137.59.52.109
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IN 🇮🇳 Mumbai
+    server: 103.156.50.95
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IS 🇮🇸 Reykjavik
+    server: 45.133.193.211
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IT 🇮🇹 Milan 1
+    server: 84.17.58.164
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IT 🇮🇹 Milan 2
+    server: 212.102.54.165
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IT 🇮🇹 Milan 3
+    server: 84.17.58.190
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IT 🇮🇹 Milan 4
+    server: 212.102.54.130
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IT 🇮🇹 Rome 1
+    server: 82.102.26.53
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IT 🇮🇹 Rome 2
+    server: 82.102.26.51
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: IT 🇮🇹 Rome 3
+    server: 82.102.26.101
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: JP 🇯🇵 Tokyo
+    server: 45.87.213.105
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: KR 🇰🇷 Seoul
+    server: 27.255.77.197
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: LU 🇱🇺 Luxembourg
+    server: 185.153.151.96
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: LY 🇱🇾 Tripoli
+    server: 41.208.72.157
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: MK 🇲🇰 Skopje
+    server: 185.225.28.85
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: MX 🇲🇽 Mexico City
+    server: 194.41.112.9
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: My 🇲🇾 Kuala Lumpur
+    server: 42.0.30.164
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: NG 🇳🇬 Lagos
+    server: 102.165.23.4
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: NL 🇳🇱 Amsterdam 1
+    server: 212.102.35.218
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: NL 🇳🇱 Amsterdam 2
+    server: 81.19.208.102
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: NL 🇳🇱 Amsterdam 3
+    server: 143.244.42.86
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: NL 🇳🇱 Amsterdam 4
+    server: 143.244.42.91
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: NO 🇳🇴 Oslo
+    server: 91.219.215.69
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: Nz 🇳🇿 Auckland
+    server: 180.149.231.43
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PL 🇵🇱 Gdansk
+    server: 178.255.44.69
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PL 🇵🇱 Warsaw
+    server: 84.17.55.132
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 32
+    server: 103.192.80.147
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 33
+    server: 124.150.139.125
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 34
+    server: 103.108.117.118
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 35
+    server: 185.225.28.93
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 36
+    server: 185.225.28.243
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 37
+    server: 144.48.39.109
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 38
+    server: 185.108.106.148
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 39
+    server: 176.107.185.73
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 40
+    server: 185.166.84.83
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 41
+    server: 144.48.38.149
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 42
+    server: 185.188.61.27
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 43
+    server: 45.43.19.84
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 44
+    server: 144.48.39.67
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 45
+    server: 192.154.255.52
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 46
+    server: 107.174.20.134
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 47
+    server: 185.166.84.75
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 48
+    server: 107.175.104.86
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 49
+    server: 104.244.208.35
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 50
+    server: 180.149.231.45
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 51
+    server: 154.16.168.188
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 52
+    server: 156.146.56.132
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 53
+    server: 102.165.23.42
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PROXYPOOL 54
+    server: 102.165.23.6
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PT 🇵🇹 Lisbon
+    server: 91.205.230.164
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PT 🇵🇹 Porto
+    server: 194.39.127.36
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: PY 🇵🇾 Asunción
+    server: 181.40.18.47
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: RO 🇷🇴 Bucharest
+    server: 185.102.217.159
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: RS 🇷🇸 Belgrade
+    server: 152.89.160.115
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: SE 🇸🇪 Stockholm
+    server: 185.76.9.34
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: SG 🇸🇬 Singapore
+    server: 156.146.56.137
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: SI 🇸🇮 Ljubljana
+    server: 195.158.249.46
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: SK 🇸🇰 Bratislava
+    server: 185.76.8.212
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: SSRSUB 3
+    server: 89.187.161.241
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: SSRSUB 4
+    server: 156.146.56.132
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: SSRSUB 5
+    server: 89.187.163.210
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: TH 🇹🇭 Bangkok
+    server: 27.131.138.176
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: TW 🇹🇼 Taichung City
+    server: 2.58.242.45
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: UA 🇺🇦 Kyiv
+    server: 45.9.238.47
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Atlanta 1
+    server: 66.115.169.35
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Atlanta 2
+    server: 66.115.166.147
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Atlanta 3
+    server: 66.115.166.149
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Atlanta 4
+    server: 185.93.0.146
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Bend 1
+    server: 45.43.14.103
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Bend 2
+    server: 154.16.168.184
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Bend 3
+    server: 45.43.14.93
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Bend 4
+    server: 154.16.168.188
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Boston 1
+    server: 173.237.207.38
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Boston 2
+    server: 173.237.207.32
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Boston 3
+    server: 173.237.207.56
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Boston 4
+    server: 173.237.207.42
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Buffalo 1
+    server: 172.93.146.82
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Buffalo 2
+    server: 64.44.42.162
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Buffalo 3
+    server: 64.44.42.196
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Buffalo 4
+    server: 172.93.146.212
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Charlotte 1
+    server: 154.16.171.215
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Charlotte 2
+    server: 155.254.29.165
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Charlotte 3
+    server: 192.154.255.52
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Charlotte 4
+    server: 155.254.31.184
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Chicago 1
+    server: 74.119.146.135
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Chicago 2
+    server: 74.119.146.195
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Chicago 3
+    server: 184.170.250.154
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Chicago 4
+    server: 185.246.209.52
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Dallas 1
+    server: 66.115.177.156
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Dallas 2
+    server: 66.115.177.141
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Dallas 3
+    server: 212.102.40.78
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Dallas 4
+    server: 89.187.175.167
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Denver 1
+    server: 212.102.44.71
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Denver 2
+    server: 212.102.44.76
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Denver 3
+    server: 212.102.44.88
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Denver 4
+    server: 212.102.44.98
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Detroit 1
+    server: 104.244.208.203
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Detroit 2
+    server: 104.244.210.125
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Detroit 3
+    server: 104.244.210.139
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Detroit 4
+    server: 104.244.210.115
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Houston 1
+    server: 199.10.64.69
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Houston 2
+    server: 104.148.30.53
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Houston 3
+    server: 199.10.64.101
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Kansas City 1
+    server: 63.141.248.179
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Kansas City 2
+    server: 63.141.236.245
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Kansas City 3
+    server: 107.150.39.45
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Kansas City 4
+    server: 63.141.248.181
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Las Vegas 2
+    server: 45.89.173.203
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Latham 1
+    server: 154.16.169.3
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Latham 2
+    server: 45.43.19.74
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Latham 3
+    server: 45.43.19.68
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Latham 4
+    server: 45.43.19.84
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Los Angeles 1
+    server: 89.187.187.68
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Los Angeles 2
+    server: 89.187.187.66
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Los Angeles 3
+    server: 89.187.187.78
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Los Angeles 4
+    server: 138.199.9.202
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Manassas 1
+    server: 207.244.84.40
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Manassas 2
+    server: 23.105.160.138
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Manassas 3
+    server: 23.105.163.109
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Manassas 4
+    server: 23.105.163.80
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Miami 1
+    server: 172.83.42.3
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Miami 2
+    server: 172.83.42.146
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Miami 3
+    server: 89.187.173.201
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Miami 4
+    server: 172.83.42.85
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 New York 1
+    server: 89.187.177.120
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 New York 2
+    server: 199.36.221.83
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 New York 3
+    server: 199.36.221.99
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 New York 4
+    server: 89.187.177.122
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Orlando 1
+    server: 198.147.22.195
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Orlando 2
+    server: 198.147.22.85
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Orlando 3
+    server: 66.115.182.74
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Orlando 4
+    server: 66.115.182.79
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Phoenix 1
+    server: 199.58.187.3
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Phoenix 2
+    server: 199.58.187.15
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Phoenix 3
+    server: 184.170.240.179
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Phoenix 4
+    server: 23.83.128.233
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 San Francisco 1
+    server: 185.124.240.157
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 San Francisco 2
+    server: 185.124.240.159
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 San Francisco 3
+    server: 209.58.128.48
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 San Francisco 4
+    server: 185.124.240.147
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Seattle 1
+    server: 212.102.46.71
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Seattle 2
+    server: 84.17.41.73
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Seattle 3
+    server: 84.17.41.81
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Seattle 4
+    server: 84.17.41.75
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Tampa 1
+    server: 209.216.92.3
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Tampa 2
+    server: 209.216.92.215
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Tampa 3
+    server: 209.216.92.200
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: US 🇺🇸 Tampa 4
+    server: 209.216.92.197
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: VN 🇻🇳 Ho Chi Minh City
+    server: 202.143.110.32
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: ZA 🇿🇦 Johannesburg
+    server: 154.127.50.138
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+  - name: France
+    server: 185.108.106.142
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: Greece2
+    server: 194.150.167.42
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: Luxembourg
+    server: 185.153.151.104
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 55
+    server: 185.153.151.100
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 56
+    server: 176.227.241.24
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 57
+    server: 176.227.241.21
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 58
+    server: 185.153.150.44
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 59
+    server: 185.166.84.65
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 60
+    server: 91.206.168.9
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 61
+    server: 91.206.168.5
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 62
+    server: 144.48.38.139
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 63
+    server: 185.166.84.63
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  - name: PROXYPOOL 64
+    server: 154.127.50.130
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+proxy-groups:
+  - name: 🔰 SELECT
+    type: select
+    proxies:
+      - ♻️ BESTPING
+      - AU 🇦🇺 Sydney
+      - BA 🇧🇦 Sarajevo
+      - BE 🇧🇪 Brussels 1
+      - BE 🇧🇪 Brussels 2
+      - CO 🇨🇴 Bogota
+      - CR 🇨🇷 San Jose
+      - CY 🇨🇾 Nicosia
+      - CZ 🇨🇿 Prague
+      - DE 🇩🇪 Berlin 1
+      - DE 🇩🇪 Berlin 2
+      - DE 🇩🇪 Berlin 3
+      - DE 🇩🇪 Berlin 4
+      - DE 🇩🇪 Frankfurt am Main 1
+      - DE 🇩🇪 Frankfurt am Main 2
+      - DE 🇩🇪 Frankfurt am Main 3
+      - DE 🇩🇪 Frankfurt am Main 4
+      - DE 🇩🇪 Munich 2
+      - DK 🇩🇰 Copenhagen
+      - ES 🇪🇸 Barcelona
+      - ES 🇪🇸 Madrid
+      - ES 🇪🇸 Valencia
+      - FI 🇫🇮 Helsinki 4
+      - FR 🇫🇷 Bordeaux 1
+      - FR 🇫🇷 Bordeaux 2
+      - FR 🇫🇷 Bordeaux 3
+      - FR 🇫🇷 Bordeaux 4
+      - FR 🇫🇷 Marseille 2
+      - FR 🇫🇷 Marseille 3
+      - FR 🇫🇷 Marseille 4
+      - FR 🇫🇷 Paris 1
+      - FR 🇫🇷 Paris 2
+      - FR 🇫🇷 Paris 3
+      - FR 🇫🇷 Paris 4
+      - GB 🇬🇧 Glasgow 1
+      - GB 🇬🇧 Glasgow 2
+      - GB 🇬🇧 Glasgow 3
+      - GB 🇬🇧 Glasgow 4
+      - GB 🇬🇧 London 1
+      - GB 🇬🇧 London 2
+      - GB 🇬🇧 London 3
+      - GB 🇬🇧 London 4
+      - GB 🇬🇧 Manchester 1
+      - GB 🇬🇧 Manchester 2
+      - GB 🇬🇧 Manchester 3
+      - GB 🇬🇧 Manchester 4
+      - GR 🇬🇷 Athens
+      - HK 🇭🇰 Hong Kong
+      - HR 🇭🇷 Zagreb
+      - IE 🇮🇪 Dublin
+      - IL 🇮🇱 Tel Aviv
+      - IN 🇮🇳 Chennai
+      - IN 🇮🇳 Indore
+      - IN 🇮🇳 Mumbai
+      - IS 🇮🇸 Reykjavik
+      - IT 🇮🇹 Milan 1
+      - IT 🇮🇹 Milan 2
+      - IT 🇮🇹 Milan 3
+      - IT 🇮🇹 Milan 4
+      - IT 🇮🇹 Rome 1
+      - IT 🇮🇹 Rome 2
+      - IT 🇮🇹 Rome 3
+      - JP 🇯🇵 Tokyo
+      - KR 🇰🇷 Seoul
+      - LU 🇱🇺 Luxembourg
+      - LY 🇱🇾 Tripoli
+      - MK 🇲🇰 Skopje
+      - MX 🇲🇽 Mexico City
+      - My 🇲🇾 Kuala Lumpur
+      - NG 🇳🇬 Lagos
+      - NL 🇳🇱 Amsterdam 1
+      - NL 🇳🇱 Amsterdam 2
+      - NL 🇳🇱 Amsterdam 3
+      - NL 🇳🇱 Amsterdam 4
+      - NO 🇳🇴 Oslo
+      - Nz 🇳🇿 Auckland
+      - PL 🇵🇱 Gdansk
+      - PL 🇵🇱 Warsaw
+      - PROXYPOOL 32
+      - PROXYPOOL 33
+      - PROXYPOOL 34
+      - PROXYPOOL 35
+      - PROXYPOOL 36
+      - PROXYPOOL 37
+      - PROXYPOOL 38
+      - PROXYPOOL 39
+      - PROXYPOOL 40
+      - PROXYPOOL 41
+      - PROXYPOOL 42
+      - PROXYPOOL 43
+      - PROXYPOOL 44
+      - PROXYPOOL 45
+      - PROXYPOOL 46
+      - PROXYPOOL 47
+      - PROXYPOOL 48
+      - PROXYPOOL 49
+      - PROXYPOOL 50
+      - PROXYPOOL 51
+      - PROXYPOOL 52
+      - PROXYPOOL 53
+      - PROXYPOOL 54
+      - PT 🇵🇹 Lisbon
+      - PT 🇵🇹 Porto
+      - PY 🇵🇾 Asunción
+      - RO 🇷🇴 Bucharest
+      - RS 🇷🇸 Belgrade
+      - SE 🇸🇪 Stockholm
+      - SG 🇸🇬 Singapore
+      - SI 🇸🇮 Ljubljana
+      - SK 🇸🇰 Bratislava
+      - SSRSUB 3
+      - SSRSUB 4
+      - SSRSUB 5
+      - TH 🇹🇭 Bangkok
+      - TW 🇹🇼 Taichung City
+      - UA 🇺🇦 Kyiv
+      - US 🇺🇸 Atlanta 1
+      - US 🇺🇸 Atlanta 2
+      - US 🇺🇸 Atlanta 3
+      - US 🇺🇸 Atlanta 4
+      - US 🇺🇸 Bend 1
+      - US 🇺🇸 Bend 2
+      - US 🇺🇸 Bend 3
+      - US 🇺🇸 Bend 4
+      - US 🇺🇸 Boston 1
+      - US 🇺🇸 Boston 2
+      - US 🇺🇸 Boston 3
+      - US 🇺🇸 Boston 4
+      - US 🇺🇸 Buffalo 1
+      - US 🇺🇸 Buffalo 2
+      - US 🇺🇸 Buffalo 3
+      - US 🇺🇸 Buffalo 4
+      - US 🇺🇸 Charlotte 1
+      - US 🇺🇸 Charlotte 2
+      - US 🇺🇸 Charlotte 3
+      - US 🇺🇸 Charlotte 4
+      - US 🇺🇸 Chicago 1
+      - US 🇺🇸 Chicago 2
+      - US 🇺🇸 Chicago 3
+      - US 🇺🇸 Chicago 4
+      - US 🇺🇸 Dallas 1
+      - US 🇺🇸 Dallas 2
+      - US 🇺🇸 Dallas 3
+      - US 🇺🇸 Dallas 4
+      - US 🇺🇸 Denver 1
+      - US 🇺🇸 Denver 2
+      - US 🇺🇸 Denver 3
+      - US 🇺🇸 Denver 4
+      - US 🇺🇸 Detroit 1
+      - US 🇺🇸 Detroit 2
+      - US 🇺🇸 Detroit 3
+      - US 🇺🇸 Detroit 4
+      - US 🇺🇸 Houston 1
+      - US 🇺🇸 Houston 2
+      - US 🇺🇸 Houston 3
+      - US 🇺🇸 Kansas City 1
+      - US 🇺🇸 Kansas City 2
+      - US 🇺🇸 Kansas City 3
+      - US 🇺🇸 Kansas City 4
+      - US 🇺🇸 Las Vegas 2
+      - US 🇺🇸 Latham 1
+      - US 🇺🇸 Latham 2
+      - US 🇺🇸 Latham 3
+      - US 🇺🇸 Latham 4
+      - US 🇺🇸 Los Angeles 1
+      - US 🇺🇸 Los Angeles 2
+      - US 🇺🇸 Los Angeles 3
+      - US 🇺🇸 Los Angeles 4
+      - US 🇺🇸 Manassas 1
+      - US 🇺🇸 Manassas 2
+      - US 🇺🇸 Manassas 3
+      - US 🇺🇸 Manassas 4
+      - US 🇺🇸 Miami 1
+      - US 🇺🇸 Miami 2
+      - US 🇺🇸 Miami 3
+      - US 🇺🇸 Miami 4
+      - US 🇺🇸 New York 1
+      - US 🇺🇸 New York 2
+      - US 🇺🇸 New York 3
+      - US 🇺🇸 New York 4
+      - US 🇺🇸 Orlando 1
+      - US 🇺🇸 Orlando 2
+      - US 🇺🇸 Orlando 3
+      - US 🇺🇸 Orlando 4
+      - US 🇺🇸 Phoenix 1
+      - US 🇺🇸 Phoenix 2
+      - US 🇺🇸 Phoenix 3
+      - US 🇺🇸 Phoenix 4
+      - US 🇺🇸 San Francisco 1
+      - US 🇺🇸 San Francisco 2
+      - US 🇺🇸 San Francisco 3
+      - US 🇺🇸 San Francisco 4
+      - US 🇺🇸 Seattle 1
+      - US 🇺🇸 Seattle 2
+      - US 🇺🇸 Seattle 3
+      - US 🇺🇸 Seattle 4
+      - US 🇺🇸 Tampa 1
+      - US 🇺🇸 Tampa 2
+      - US 🇺🇸 Tampa 3
+      - US 🇺🇸 Tampa 4
+      - VN 🇻🇳 Ho Chi Minh City
+      - ZA 🇿🇦 Johannesburg
+      - France
+      - Greece2
+      - Luxembourg
+      - PROXYPOOL 55
+      - PROXYPOOL 56
+      - PROXYPOOL 57
+      - PROXYPOOL 58
+      - PROXYPOOL 59
+      - PROXYPOOL 60
+      - PROXYPOOL 61
+      - PROXYPOOL 62
+      - PROXYPOOL 63
+      - PROXYPOOL 64
+  - name: ♻️ BESTPING
+    type: url-test
+    url: http://www.google.com
+    interval: 300
+    proxies:
+      - AU 🇦🇺 Sydney
+      - BA 🇧🇦 Sarajevo
+      - BE 🇧🇪 Brussels 1
+      - BE 🇧🇪 Brussels 2
+      - CO 🇨🇴 Bogota
+      - CR 🇨🇷 San Jose
+      - CY 🇨🇾 Nicosia
+      - CZ 🇨🇿 Prague
+      - DE 🇩🇪 Berlin 1
+      - DE 🇩🇪 Berlin 2
+      - DE 🇩🇪 Berlin 3
+      - DE 🇩🇪 Berlin 4
+      - DE 🇩🇪 Frankfurt am Main 1
+      - DE 🇩🇪 Frankfurt am Main 2
+      - DE 🇩🇪 Frankfurt am Main 3
+      - DE 🇩🇪 Frankfurt am Main 4
+      - DE 🇩🇪 Munich 2
+      - DK 🇩🇰 Copenhagen
+      - ES 🇪🇸 Barcelona
+      - ES 🇪🇸 Madrid
+      - ES 🇪🇸 Valencia
+      - FI 🇫🇮 Helsinki 4
+      - FR 🇫🇷 Bordeaux 1
+      - FR 🇫🇷 Bordeaux 2
+      - FR 🇫🇷 Bordeaux 3
+      - FR 🇫🇷 Bordeaux 4
+      - FR 🇫🇷 Marseille 2
+      - FR 🇫🇷 Marseille 3
+      - FR 🇫🇷 Marseille 4
+      - FR 🇫🇷 Paris 1
+      - FR 🇫🇷 Paris 2
+      - FR 🇫🇷 Paris 3
+      - FR 🇫🇷 Paris 4
+      - GB 🇬🇧 Glasgow 1
+      - GB 🇬🇧 Glasgow 2
+      - GB 🇬🇧 Glasgow 3
+      - GB 🇬🇧 Glasgow 4
+      - GB 🇬🇧 London 1
+      - GB 🇬🇧 London 2
+      - GB 🇬🇧 London 3
+      - GB 🇬🇧 London 4
+      - GB 🇬🇧 Manchester 1
+      - GB 🇬🇧 Manchester 2
+      - GB 🇬🇧 Manchester 3
+      - GB 🇬🇧 Manchester 4
+      - GR 🇬🇷 Athens
+      - HK 🇭🇰 Hong Kong
+      - HR 🇭🇷 Zagreb
+      - IE 🇮🇪 Dublin
+      - IL 🇮🇱 Tel Aviv
+      - IN 🇮🇳 Chennai
+      - IN 🇮🇳 Indore
+      - IN 🇮🇳 Mumbai
+      - IS 🇮🇸 Reykjavik
+      - IT 🇮🇹 Milan 1
+      - IT 🇮🇹 Milan 2
+      - IT 🇮🇹 Milan 3
+      - IT 🇮🇹 Milan 4
+      - IT 🇮🇹 Rome 1
+      - IT 🇮🇹 Rome 2
+      - IT 🇮🇹 Rome 3
+      - JP 🇯🇵 Tokyo
+      - KR 🇰🇷 Seoul
+      - LU 🇱🇺 Luxembourg
+      - LY 🇱🇾 Tripoli
+      - MK 🇲🇰 Skopje
+      - MX 🇲🇽 Mexico City
+      - My 🇲🇾 Kuala Lumpur
+      - NG 🇳🇬 Lagos
+      - NL 🇳🇱 Amsterdam 1
+      - NL 🇳🇱 Amsterdam 2
+      - NL 🇳🇱 Amsterdam 3
+      - NL 🇳🇱 Amsterdam 4
+      - NO 🇳🇴 Oslo
+      - Nz 🇳🇿 Auckland
+      - PL 🇵🇱 Gdansk
+      - PL 🇵🇱 Warsaw
+      - PROXYPOOL 32
+      - PROXYPOOL 33
+      - PROXYPOOL 34
+      - PROXYPOOL 35
+      - PROXYPOOL 36
+      - PROXYPOOL 37
+      - PROXYPOOL 38
+      - PROXYPOOL 39
+      - PROXYPOOL 40
+      - PROXYPOOL 41
+      - PROXYPOOL 42
+      - PROXYPOOL 43
+      - PROXYPOOL 44
+      - PROXYPOOL 45
+      - PROXYPOOL 46
+      - PROXYPOOL 47
+      - PROXYPOOL 48
+      - PROXYPOOL 49
+      - PROXYPOOL 50
+      - PROXYPOOL 51
+      - PROXYPOOL 52
+      - PROXYPOOL 53
+      - PROXYPOOL 54
+      - PT 🇵🇹 Lisbon
+      - PT 🇵🇹 Porto
+      - PY 🇵🇾 Asunción
+      - RO 🇷🇴 Bucharest
+      - RS 🇷🇸 Belgrade
+      - SE 🇸🇪 Stockholm
+      - SG 🇸🇬 Singapore
+      - SI 🇸🇮 Ljubljana
+      - SK 🇸🇰 Bratislava
+      - SSRSUB 3
+      - SSRSUB 4
+      - SSRSUB 5
+      - TH 🇹🇭 Bangkok
+      - TW 🇹🇼 Taichung City
+      - UA 🇺🇦 Kyiv
+      - US 🇺🇸 Atlanta 1
+      - US 🇺🇸 Atlanta 2
+      - US 🇺🇸 Atlanta 3
+      - US 🇺🇸 Atlanta 4
+      - US 🇺🇸 Bend 1
+      - US 🇺🇸 Bend 2
+      - US 🇺🇸 Bend 3
+      - US 🇺🇸 Bend 4
+      - US 🇺🇸 Boston 1
+      - US 🇺🇸 Boston 2
+      - US 🇺🇸 Boston 3
+      - US 🇺🇸 Boston 4
+      - US 🇺🇸 Buffalo 1
+      - US 🇺🇸 Buffalo 2
+      - US 🇺🇸 Buffalo 3
+      - US 🇺🇸 Buffalo 4
+      - US 🇺🇸 Charlotte 1
+      - US 🇺🇸 Charlotte 2
+      - US 🇺🇸 Charlotte 3
+      - US 🇺🇸 Charlotte 4
+      - US 🇺🇸 Chicago 1
+      - US 🇺🇸 Chicago 2
+      - US 🇺🇸 Chicago 3
+      - US 🇺🇸 Chicago 4
+      - US 🇺🇸 Dallas 1
+      - US 🇺🇸 Dallas 2
+      - US 🇺🇸 Dallas 3
+      - US 🇺🇸 Dallas 4
+      - US 🇺🇸 Denver 1
+      - US 🇺🇸 Denver 2
+      - US 🇺🇸 Denver 3
+      - US 🇺🇸 Denver 4
+      - US 🇺🇸 Detroit 1
+      - US 🇺🇸 Detroit 2
+      - US 🇺🇸 Detroit 3
+      - US 🇺🇸 Detroit 4
+      - US 🇺🇸 Houston 1
+      - US 🇺🇸 Houston 2
+      - US 🇺🇸 Houston 3
+      - US 🇺🇸 Kansas City 1
+      - US 🇺🇸 Kansas City 2
+      - US 🇺🇸 Kansas City 3
+      - US 🇺🇸 Kansas City 4
+      - US 🇺🇸 Las Vegas 2
+      - US 🇺🇸 Latham 1
+      - US 🇺🇸 Latham 2
+      - US 🇺🇸 Latham 3
+      - US 🇺🇸 Latham 4
+      - US 🇺🇸 Los Angeles 1
+      - US 🇺🇸 Los Angeles 2
+      - US 🇺🇸 Los Angeles 3
+      - US 🇺🇸 Los Angeles 4
+      - US 🇺🇸 Manassas 1
+      - US 🇺🇸 Manassas 2
+      - US 🇺🇸 Manassas 3
+      - US 🇺🇸 Manassas 4
+      - US 🇺🇸 Miami 1
+      - US 🇺🇸 Miami 2
+      - US 🇺🇸 Miami 3
+      - US 🇺🇸 Miami 4
+      - US 🇺🇸 New York 1
+      - US 🇺🇸 New York 2
+      - US 🇺🇸 New York 3
+      - US 🇺🇸 New York 4
+      - US 🇺🇸 Orlando 1
+      - US 🇺🇸 Orlando 2
+      - US 🇺🇸 Orlando 3
+      - US 🇺🇸 Orlando 4
+      - US 🇺🇸 Phoenix 1
+      - US 🇺🇸 Phoenix 2
+      - US 🇺🇸 Phoenix 3
+      - US 🇺🇸 Phoenix 4
+      - US 🇺🇸 San Francisco 1
+      - US 🇺🇸 San Francisco 2
+      - US 🇺🇸 San Francisco 3
+      - US 🇺🇸 San Francisco 4
+      - US 🇺🇸 Seattle 1
+      - US 🇺🇸 Seattle 2
+      - US 🇺🇸 Seattle 3
+      - US 🇺🇸 Seattle 4
+      - US 🇺🇸 Tampa 1
+      - US 🇺🇸 Tampa 2
+      - US 🇺🇸 Tampa 3
+      - US 🇺🇸 Tampa 4
+      - VN 🇻🇳 Ho Chi Minh City
+      - ZA 🇿🇦 Johannesburg
+      - France
+      - Greece2
+      - Luxembourg
+      - PROXYPOOL 55
+      - PROXYPOOL 56
+      - PROXYPOOL 57
+      - PROXYPOOL 58
+      - PROXYPOOL 59
+      - PROXYPOOL 60
+      - PROXYPOOL 61
+      - PROXYPOOL 62
+      - PROXYPOOL 63
+      - PROXYPOOL 64
+rules:
+  - MATCH,♻️ BESTPING,🔰 SELECT
