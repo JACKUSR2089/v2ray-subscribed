@@ -4,7 +4,7 @@
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
-请升级电脑端和安卓端到最新版(v2rayN4.11版）才可以支持trojan和vless！否则会无法使用trojan和vless！
+请升级电脑端和安卓端到最新版(v2rayN4.11版以上）才可以支持trojan和vless！否则会无法使用trojan和vless！
                
 请使用外国浏览器访问，例如google chrome 浏览器,火狐浏览器(Firefox), Microsoft Edge浏览器等
 别使用国内的360浏览器，腾讯浏览器，UC浏览器，微信浏览器。。。国内的浏览器都是封锁帮凶。
@@ -57,7 +57,7 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/3-28.PNG)](https://s
 
 
  
-#vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.11版,才可以支持trojan和vless！否则会无法使用trojan和vless！)
+#vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.11版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImtyMi0xOUAxR2Jwc+iKgueCueabtOaWsCBodHRwczovL2JpdC5seS8zaDE4ZUU3IiwNCiAgImFkZCI6ICIxMDQuMjUuMTc1LjY5IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImE5Y2QxMjZhLTdjMDUtNDFhZi1hZDBlLWExODVlYWJjODljOCIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidmluY2VudC1qYWNrc29uLmNmIiwNCiAgInBhdGgiOiAiL1RoZS1HcmVhdC1Bd2FrZW5pbmdfdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
