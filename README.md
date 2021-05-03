@@ -44,7 +44,13 @@ USDT-ERC20 USDT充币地址:
  
  
 朋友注意啦，下面几款VPN出状况了‼️💥⚠️🔥
+https://www.vpnmentor.com/blog/report-free-vpns-leak/
 
+UFO VPN, FAST VPN, Free VPN, Super VPN, Flash VPN, Secure VPN, Rabbit VPN
+1.207 TB
+文件总数	1,083,997,361记录
+7款VPN一共2100万用户数,根据VPN声称的用户数量，超过2000万
+	
 ⚠️SuperVPN，GeckoVPN，ChatVPN三款VPN一共2100万用户数据在黑客论坛出售‼️
 
 💢出售的数据非常详细，包括电子邮件、用户名、姓名、国家、密码字符串、付款信息，会员身份信息等，设备数据信息包括序列号、设备类型和制造商、设备ID、设备IMSI等‼️
