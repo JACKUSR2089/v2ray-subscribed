@@ -1,4 +1,4 @@
-更新时间 2021-05-20 00:00
+更新时间 2021-05-23 00:00
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
@@ -64,6 +64,7 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/3-28.PNG)](https://s
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.11版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ~~~
+
 vmess://eyJ2IjoiMiIsInBzIjoiMTIwIFx1OTk5OVx1NmUyZnxcdTVlZTNcdTVkZGVcdTc5ZmJcdTUyZDV8XHU1MzlmXHU3NTFmSVBcdTZkNDFcdTVhOTJcdTlhZDR8MVggfCBWMSIsImFkZCI6Imd6eWQuYm90dGEubW9uc3RlciIsInBvcnQiOjIzMDAxLCJpZCI6IjU0MmRkNDJlLTM3NDYtNDYxZC1hODdiLTE4MmIyNTE2ZjhlNCIsImFpZCI6MSwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiJ9
 
 
@@ -97,8 +98,6 @@ youtube 精选
 吴建民                     https://www.youtube.com/c/%E6%96%AF%E5%87%A1%E5%90%B4%E5%BB%BA%E6%B0%91/videos
 
 大陆新闻解毒                https://www.youtube.com/channel/UC3C919BI3dyDCgQHQVXY6Vg
-
-波特王全世界第一個撩總統的Youtuber！https://www.youtube.com/c/%E6%B3%A2%E7%89%B9%E7%8E%8BPotterKing/videos
 
 Fashion Channel            https://www.youtube.com/c/FashionChannel/videos
 
