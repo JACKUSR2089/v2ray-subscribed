@@ -5,7 +5,7 @@
 请升级电脑端和安卓端到最新版(v2rayN4.11版以上）才可以支持trojan和vless！否则会无法使用trojan和vless！
 
 请不要使用鴻蒙系統，使用華為手機的鴻蒙系統翻牆=1鍵喝茶】
-華為的鴻蒙系統可能與中共公安直接聯網，手機內的APP數據會得到來自公安的「安全監管」。
+華為的鴻蒙系統與中共公安直接聯網，手機內的APP數據會得到來自公安的「安全監管」。
  台港中時間6月7日，有中國網友爆料稱，手機升級鴻蒙系統後，手機內的色情、詐騙、翻牆等「非法應用」被有效識別，為有效保障群眾財產安全，警方第一時間進行電話勸阻，並要求用戶刪除相關「非法應用」。
  [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/subscribed/20210612.png)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
