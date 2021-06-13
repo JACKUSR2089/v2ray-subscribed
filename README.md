@@ -1,7 +1,7 @@
-更新时间 2021-06-12 00:00
+更新时间 2021-06-13 00:00
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
-为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3h18eE7
+为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！   节点更新https://bit.ly/3uWuS7a
 请升级电脑端和安卓端到最新版(v2rayN4.11版以上）才可以支持trojan和vless！否则会无法使用trojan和vless！
 
 请不要使用鴻蒙系統，使用華為手機的鴻蒙系統翻牆=1鍵喝茶】
@@ -81,7 +81,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiMTIwIFx1OTk5OVx1NmUyZnxcdTVlZTNcdTVkZGVcdTc5ZmJcdTUy
 翻出去看什么
 youtube 精选
 
-我的频道                       https://bit.ly/3h18eE7
+我的频道                     https://bit.ly/3uWuS7a
  
 江峰时刻=100个老梁                 https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
 
