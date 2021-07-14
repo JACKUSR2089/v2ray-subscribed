@@ -15,7 +15,7 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/subscribed/20210612.
 如果你的电脑上安装360杀毒软件，请马上删掉。
 提示：微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。
 
-#接受小额赞助、欢迎用金钱来狠狠的羞辱我!羞辱羞辱我!
+#接受捐赠、欢迎用金钱来狠狠的羞辱我!羞辱羞辱我!
 
 DOGE（狗狗币）地址： A3niwzgC8KoRVVSFFbgUwbfetBQAt1T6Wg
 
