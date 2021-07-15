@@ -116,8 +116,7 @@ PewDiePie                  https://www.youtube.com/user/PewDiePie
 
 youtube垃圾脑残： 郭文贵(脑残教主)  路德社。   stone记 {大外宣}  杨建立  魏京生   何频（高级五毛，特务）  明鏡集團（cctv海外版）環球時報(胡錫進 )观察者网(中国小丑董佳宁sb)
 https://www.youtube.com/watch?v=a7F_BgweuTAb
-
-（中国当代斯诺）中国政府支助{花大价钱请的）网红Best China Info，
+ （中国当代斯诺）中国政府支助{花大价钱请的）网红Best China Info，
 Living in China  ，bareett
 
 
