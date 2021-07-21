@@ -22,6 +22,9 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/subscribed/20210612.
 
 #接受捐赠、欢迎用金钱来狠狠的羞辱我!羞辱羞辱我!
 
+[![Stargazers over time](
+https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/subscribed/2021-7-21.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
 DOGE（狗狗币）地址： A3niwzgC8KoRVVSFFbgUwbfetBQAt1T6Wg
 
 ZCash (ZEC) :  t3Pbxius4GPSKTnipGRLK9JegorvnRvr2za
