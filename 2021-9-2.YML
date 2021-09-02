@@ -7,7 +7,7 @@ external-controller: :9090
 proxies:
   - {name: 不能用了找我更新https://bit.ly/3uWuS7a, server: 118.107.244.111, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 不能用了找我更新https://bit.ly/3uWuS7a | 9.06Mb, server: 42.157.195.229, port: 12127, type: ssr, cipher: aes-256-cfb, password: 68xdgu9eyif, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 600777:154T8b, obfs-param: 0f099600777.v23f7nM0}
-  - {name: 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1918 | 5.97Mb, server: 42.157.195.228, port: 12127, type: ssr, cipher: aes-256-cfb, password: 68xdgu9eyif, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 600777:154T8b, obfs-param: 0f099600777.v23f7nM0}
+  - {name: 我的YOUTUBE:免费 vpn Vincent Jackson | 5.97Mb, server: 42.157.195.228, port: 12127, type: ssr, cipher: aes-256-cfb, password: 68xdgu9eyif, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 600777:154T8b, obfs-param: 0f099600777.v23f7nM0}
   - {name: 🇨🇳 CN_1916 | 6.96Mb, server: 42.157.195.230, port: 12127, type: ssr, cipher: aes-256-cfb, password: 68xdgu9eyif, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 600777:154T8b, obfs-param: 0f099600777.v23f7nM0}
   - {name: 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1949 |10.35Mb, server: 42.157.195.236, port: 12127, type: ssr, cipher: aes-256-cfb, password: 68xdgu9eyif, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 600777:154T8b, obfs-param: 0f099600777.v23f7nM0}
   - {name: 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1931 |10.96Mb, server: 14.152.92.81, port: 12127, type: ssr, cipher: aes-256-cfb, password: 68xdgu9eyif, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 600777:154T8b, obfs-param: 0f099600777.v23f7nM0}
@@ -145,7 +145,7 @@ proxy-groups:
       - DIRECT
       - 不能用了找我更新https://bit.ly/3uWuS7a
       - 不能用了找我更新https://bit.ly/3uWuS7a | 9.06Mb
-      - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1918 | 5.97Mb
+      - 我的YOUTUBE:免费 vpn Vincent Jackson | 5.97Mb
       - 🇨🇳 CN_1916 | 6.96Mb
       - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1949 |10.35Mb
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1931 |10.96Mb
@@ -281,7 +281,7 @@ proxy-groups:
     proxies:
       - 不能用了找我更新https://bit.ly/3uWuS7a
       - 不能用了找我更新https://bit.ly/3uWuS7a | 9.06Mb
-      - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1918 | 5.97Mb
+      - 我的YOUTUBE:免费 vpn Vincent Jackson | 5.97Mb
       - 🇨🇳 CN_1916 | 6.96Mb
       - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1949 |10.35Mb
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1931 |10.96Mb
@@ -416,7 +416,7 @@ proxy-groups:
     proxies:
       - 不能用了找我更新https://bit.ly/3uWuS7a
       - 不能用了找我更新https://bit.ly/3uWuS7a | 9.06Mb
-      - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1918 | 5.97Mb
+      - 我的YOUTUBE:免费 vpn Vincent Jackson | 5.97Mb
       - 🇨🇳 CN_1916 | 6.96Mb
       - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1949 |10.35Mb
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1931 |10.96Mb
@@ -551,7 +551,7 @@ proxy-groups:
     proxies:
       - 不能用了找我更新https://bit.ly/3uWuS7a
       - 不能用了找我更新https://bit.ly/3uWuS7a | 9.06Mb
-      - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1918 | 5.97Mb
+      - 我的YOUTUBE:免费 vpn Vincent Jackson | 5.97Mb
       - 🇨🇳 CN_1916 | 6.96Mb
       - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1949 |10.35Mb
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1931 |10.96Mb
@@ -700,7 +700,7 @@ proxy-groups:
       - 🔮 负载均衡
       - 不能用了找我更新https://bit.ly/3uWuS7a
       - 不能用了找我更新https://bit.ly/3uWuS7a | 9.06Mb
-      - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1918 | 5.97Mb
+      - 我的YOUTUBE:免费 vpn Vincent Jackson | 5.97Mb
       - 🇨🇳 CN_1916 | 6.96Mb
       - 🇺🇸 Relay_🇨🇳CN-🇺🇸US_1949 |10.35Mb
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1931 |10.96Mb
@@ -4087,4 +4087,3 @@ rules:
  - IP-CIDR,101.199.196.0/22,🎯 全球直连,no-resolve
  - GEOIP,CN,🎯 全球直连
  - MATCH,🐟 漏网之鱼
-
