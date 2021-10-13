@@ -1,4 +1,4 @@
-更新时间 2021-10-8 0:00
+更新时间 2021-10-14 0:00
 
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
@@ -70,6 +70,49 @@ UFO VPN, FAST VPN, Free VPN, Super VPN, Flash VPN, Secure VPN, Rabbit VPN
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/3-28.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
+vless://3b0a5d70-aaf6-48b1-b597-6d710581262a@vincent-jackson2021.ga:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#vincent-jackson2021.ga_VLESS_WS
+vless://3b0a5d70-aaf6-48b1-b597-6d710581262a@104.16.207.196:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#vincent-jackson2021.ga_VLESS_WS-clone
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@172.67.223.77:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-14%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.19.156.125:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-26%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a-clone
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.174.64:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakeningws#1-clone
+vless://e9f8559d-5732-4c43-9c6c-c1a2ea6c5f6f@104.22.4.180:443?encryption=none&security=tls&sni=vincent-jackson2021.ml&type=ws&host=vincent-jackson2021.ml&path=%2fThe-Great-Awakeningws#us%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a-clone
+vless://e9f8559d-5732-4c43-9c6c-c1a2ea6c5f6f@104.22.4.180:443?encryption=none&security=tls&sni=vincent-jackson2021.ml&type=ws&host=vincent-jackson2021.ml&path=%2fThe-Great-Awakeningws#us%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.21.239.147:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-10%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.22.3.3:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-11%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.22.4.180:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-12%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.22.44.50:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-13%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@172.67.209.58:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-15%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.20.81.240:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-16%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.18.135.208:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-18%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@www.garmin.com:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-19%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@www.cloudflare.com:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-2%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.149.48:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-20%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@172.25.175.69:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-21%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.19.45.117:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-22%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.19.23.24:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-23%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.21.76.229:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-24%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.17.188.91:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-25%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.182.15:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-26%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.181.15:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-27%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.148.48:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-28%2b%e7%a7%bb%e5%8a%a8%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@1.0.0.0:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-29
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.16.255:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-30%e6%bb%a1%e8%b6%b32000%2bMbps%e5%b8%a6%2b%e5%ae%bd%2b%e9%9c%80%2b%e6%b1%82%e5%b3%b0%e5%80%bc%2b%e9%80%9f%2b%e5%ba%a6%2b%2b307200%2bkB%2fs%2b%2b%e6%95%b0%2b%e6%8d%ae%e4%b8%ad%e5%bf%83HKG
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.167.138:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-31%e6%bb%a1%2b%e8%b6%b3%2b%2b2000%2bMbps%e5%b8%a6%2b%e5%ae%bd%2b%e9%9c%80%e6%b1%82%e5%b3%b0%e5%80%bc%2b%e9%80%9f%2b%e5%ba%a6%2b%2b269312%2bkB%2fs
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.207.196:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-32%e6%bb%a1%2b%e8%b6%b3%2b%2b2000%2bMbps%e5%b8%a6%2b%e5%ae%bd%2b%e9%9c%80%e6%b1%82%e5%b3%b0%e5%80%bc%2b%e9%80%9f%2b%e5%ba%a6%2b%2b269312%2bkB%2fs
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.18.27.64:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-33%2b%e8%81%94%e9%80%9a100M%2b4K%2b
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.17.36.178:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-34%e8%81%94%e9%80%9a100M%2b4K-2%2b
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-35
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.20.130.43:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-4%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.25.104.240:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-5%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.160.114:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-6%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.8.157:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-7%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.110.238:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-8%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.20.130.175:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#usa-9%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://16f5f19d-a8a6-4122-9f2f-e18bfb2a8f88@father888.ga:443?encryption=none&security=tls&type=tcp&headerType=none#%e5%85%8d%e8%b4%b9%e6%a2%af%e5%ad%90https%3a%2f%2fbit.ly%2f3uWuS7a
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@vincent-jackson2021.ga:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#vincent-jackson2021.ga_VLESS_WS
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@vincent-jackson2021.ga:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#vincent-jackson2021.ga_4d88f6a2-aaa9-42b6-afc4-227f89974119
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.110.238:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#d88f6a2-aaa9-42b6-afc4-227f89974119-clone
+vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.160.114:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#usa-6%2b%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3uWuS7a-clone
 
  
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.11版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
