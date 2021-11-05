@@ -72,8 +72,13 @@ UFO VPN, FAST VPN, Free VPN, Super VPN, Flash VPN, Secure VPN, Rabbit VPN
 💢另外，攻击者还获得了VPN服务器的完全远程访问权限‼️
 
 --------------------------------
+
 [![Stargazers over time](
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/3-28.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+
+
+v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2021-11-5
+
 
 vless://3b0a5d70-aaf6-48b1-b597-6d710581262a@vincent-jackson2021.ga:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#vincent-jackson2021.ga_VLESS_WS
 vless://3b0a5d70-aaf6-48b1-b597-6d710581262a@104.16.207.196:443?encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#vincent-jackson2021.ga_VLESS_WS-clone
