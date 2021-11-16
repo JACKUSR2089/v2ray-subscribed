@@ -139,7 +139,7 @@ vless://4d88f6a2-aaa9-42b6-afc4-227f89974119@104.16.160.114:443?encryption=none&
 翻出去看什么
 youtube 精选
 
-我的频道                     https://bit.ly/3uWuS7a
+我的频道                     https://www.youtube.com/channel/UCTPDrg1Pd4DQNs3RPrVXP0A
  
 江峰时刻=100个老梁                 https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
 
