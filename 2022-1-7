@@ -6,11 +6,11 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 2022-01-07, server: hk-gz-hk-hkt-tr-b.cdn.savoy.click, port: 60189, type: trojan, password: SfobRIcergHchqBFzzua, sni: hk-gz-hk-hkt-tr-b.cdn.savoy.click, skip-cert-verify: true}
-  - {name: 节点更新https://bit.ly/3oOSZUc, server: hk-gz-hk-hkt-tr-b.cdn.savoy.click, port: 60189, type: trojan, password: tswmqssAcdphWMRdDSPZbeVSzhRVbGdp, sni: hk-gz-hk-hkt-tr-b.cdn.savoy.click, skip-cert-verify: true}
-  - {name: 🇰🇷 节点更新https://bit.ly/3oOSZUc, server: 84.17.37.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA}
-  - {name: 节点更新https://bit.ly/3oOSZUc, server: 118.107.244.110, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 节点更新https://bit.ly/3oOSZUc, server: 118.107.244.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 节点更新https://bit.ly/3oOSZUc, server: 118.107.244.112, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 导航频道节点更新https://bit.ly/3oOSZUc, server: hk-gz-hk-hkt-tr-b.cdn.savoy.click, port: 60189, type: trojan, password: tswmqssAcdphWMRdDSPZbeVSzhRVbGdp, sni: hk-gz-hk-hkt-tr-b.cdn.savoy.click, skip-cert-verify: true}
+  - {name: 🇰🇷 日韩频道 节点更新https://bit.ly/3oOSZUc, server: 84.17.37.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA}
+  - {name: 白嫖群组 节点更新https://bit.ly/3oOSZUc, server: 118.107.244.110, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 白嫖频道 节点更新https://bit.ly/3oOSZUc, server: 118.107.244.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 精选频道 节点更新https://bit.ly/3oOSZUc, server: 118.107.244.112, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 节点更新https://bit.ly/3oOSZUc, server: 118.107.244.112, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇨🇦 001加拿大∞直连, server: 139.99.62.207, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇨🇦 002加拿大∞直连, server: 139.99.62.207, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
@@ -140,11 +140,11 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 2022-01-07
-      - 节点更新https://bit.ly/3oOSZUc
-      - 🇰🇷 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
+      - 导航频道节点更新https://bit.ly/3oOSZUc
+      - 🇰🇷 日韩频道 节点更新https://bit.ly/3oOSZUc
+      - 白嫖群组 节点更新https://bit.ly/3oOSZUc
+      - 白嫖频道 节点更新https://bit.ly/3oOSZUc
+      - 精选频道 节点更新https://bit.ly/3oOSZUc
       - 节点更新https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
@@ -274,11 +274,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 2022-01-07
-      - 节点更新https://bit.ly/3oOSZUc
-      - 🇰🇷 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
+      - 导航频道节点更新https://bit.ly/3oOSZUc
+      - 🇰🇷 日韩频道 节点更新https://bit.ly/3oOSZUc
+      - 白嫖群组 节点更新https://bit.ly/3oOSZUc
+      - 白嫖频道 节点更新https://bit.ly/3oOSZUc
+      - 精选频道 节点更新https://bit.ly/3oOSZUc
       - 节点更新https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
@@ -408,11 +408,11 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 2022-01-07
-      - 节点更新https://bit.ly/3oOSZUc
-      - 🇰🇷 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
+      - 导航频道节点更新https://bit.ly/3oOSZUc
+      - 🇰🇷 日韩频道 节点更新https://bit.ly/3oOSZUc
+      - 白嫖群组 节点更新https://bit.ly/3oOSZUc
+      - 白嫖频道 节点更新https://bit.ly/3oOSZUc
+      - 精选频道 节点更新https://bit.ly/3oOSZUc
       - 节点更新https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
@@ -541,11 +541,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 2022-01-07
-      - 节点更新https://bit.ly/3oOSZUc
-      - 🇰🇷 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
+      - 导航频道节点更新https://bit.ly/3oOSZUc
+      - 🇰🇷 日韩频道 节点更新https://bit.ly/3oOSZUc
+      - 白嫖群组 节点更新https://bit.ly/3oOSZUc
+      - 白嫖频道 节点更新https://bit.ly/3oOSZUc
+      - 精选频道 节点更新https://bit.ly/3oOSZUc
       - 节点更新https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
@@ -674,11 +674,11 @@ proxy-groups:
       - 🎯 全球直连
       - 🚀 节点选择
       - 2022-01-07
-      - 节点更新https://bit.ly/3oOSZUc
-      - 🇰🇷 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
+      - 导航频道节点更新https://bit.ly/3oOSZUc
+      - 🇰🇷 日韩频道 节点更新https://bit.ly/3oOSZUc
+      - 白嫖群组 节点更新https://bit.ly/3oOSZUc
+      - 白嫖频道 节点更新https://bit.ly/3oOSZUc
+      - 精选频道 节点更新https://bit.ly/3oOSZUc
       - 节点更新https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
@@ -807,11 +807,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 2022-01-07
-      - 节点更新https://bit.ly/3oOSZUc
-      - 🇰🇷 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
+      - 导航频道节点更新https://bit.ly/3oOSZUc
+      - 🇰🇷 日韩频道 节点更新https://bit.ly/3oOSZUc
+      - 白嫖群组 节点更新https://bit.ly/3oOSZUc
+      - 白嫖频道 节点更新https://bit.ly/3oOSZUc
+      - 精选频道 节点更新https://bit.ly/3oOSZUc
       - 节点更新https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
@@ -941,11 +941,11 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 2022-01-07
-      - 节点更新https://bit.ly/3oOSZUc
-      - 🇰🇷 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
+      - 导航频道节点更新https://bit.ly/3oOSZUc
+      - 🇰🇷 日韩频道 节点更新https://bit.ly/3oOSZUc
+      - 白嫖群组 节点更新https://bit.ly/3oOSZUc
+      - 白嫖频道 节点更新https://bit.ly/3oOSZUc
+      - 精选频道 节点更新https://bit.ly/3oOSZUc
       - 节点更新https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
@@ -1091,11 +1091,11 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 2022-01-07
-      - 节点更新https://bit.ly/3oOSZUc
-      - 🇰🇷 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
-      - 节点更新https://bit.ly/3oOSZUc
+      - 导航频道节点更新https://bit.ly/3oOSZUc
+      - 🇰🇷 日韩频道 节点更新https://bit.ly/3oOSZUc
+      - 白嫖群组 节点更新https://bit.ly/3oOSZUc
+      - 白嫖频道 节点更新https://bit.ly/3oOSZUc
+      - 精选频道 节点更新https://bit.ly/3oOSZUc
       - 节点更新https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
