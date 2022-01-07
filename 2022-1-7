@@ -11,7 +11,7 @@ proxies:
   - {name: 白嫖群组 我的youtube: https://bit.ly/3oOSZUc, server: 118.107.244.110, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 白嫖频道 我的youtube: https://bit.ly/3oOSZUc, server: 118.107.244.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 我的youtube: https://bit.ly/3oOSZUc, server: 118.107.244.112, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 国产频道 TG@TBBAC, server: 118.107.244.112, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 我的youtube: https://bit.ly/3oOSZUc, server: 118.107.244.112, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇨🇦 001加拿大∞直连, server: 139.99.62.207, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇨🇦 002加拿大∞直连, server: 139.99.62.207, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
   - {name: 🇨🇦 003加拿大∞直连, server: 198.57.27.152, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
@@ -145,7 +145,7 @@ proxy-groups:
       - 白嫖群组 我的youtube: https://bit.ly/3oOSZUc
       - 白嫖频道 我的youtube: https://bit.ly/3oOSZUc
       - 我的youtube: https://bit.ly/3oOSZUc
-      - 国产频道 TG@TBBAC
+      - 我的youtube: https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
       - 🇨🇦 003加拿大∞直连
@@ -279,7 +279,7 @@ proxy-groups:
       - 白嫖群组 我的youtube: https://bit.ly/3oOSZUc
       - 白嫖频道 我的youtube: https://bit.ly/3oOSZUc
       - 我的youtube: https://bit.ly/3oOSZUc
-      - 国产频道 TG@TBBAC
+      - 我的youtube: https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
       - 🇨🇦 003加拿大∞直连
@@ -413,7 +413,7 @@ proxy-groups:
       - 白嫖群组 我的youtube: https://bit.ly/3oOSZUc
       - 白嫖频道 我的youtube: https://bit.ly/3oOSZUc
       - 我的youtube: https://bit.ly/3oOSZUc
-      - 国产频道 TG@TBBAC
+      - 我的youtube: https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
       - 🇨🇦 003加拿大∞直连
@@ -546,7 +546,7 @@ proxy-groups:
       - 白嫖群组 我的youtube: https://bit.ly/3oOSZUc
       - 白嫖频道 我的youtube: https://bit.ly/3oOSZUc
       - 我的youtube: https://bit.ly/3oOSZUc
-      - 国产频道 TG@TBBAC
+      - 我的youtube: https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
       - 🇨🇦 003加拿大∞直连
@@ -679,7 +679,7 @@ proxy-groups:
       - 白嫖群组 我的youtube: https://bit.ly/3oOSZUc
       - 白嫖频道 我的youtube: https://bit.ly/3oOSZUc
       - 我的youtube: https://bit.ly/3oOSZUc
-      - 国产频道 TG@TBBAC
+      - 我的youtube: https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
       - 🇨🇦 003加拿大∞直连
@@ -812,7 +812,7 @@ proxy-groups:
       - 白嫖群组 我的youtube: https://bit.ly/3oOSZUc
       - 白嫖频道 我的youtube: https://bit.ly/3oOSZUc
       - 我的youtube: https://bit.ly/3oOSZUc
-      - 国产频道 TG@TBBAC
+      - 我的youtube: https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
       - 🇨🇦 003加拿大∞直连
@@ -946,7 +946,7 @@ proxy-groups:
       - 白嫖群组 我的youtube: https://bit.ly/3oOSZUc
       - 白嫖频道 我的youtube: https://bit.ly/3oOSZUc
       - 我的youtube: https://bit.ly/3oOSZUc
-      - 国产频道 TG@TBBAC
+      - 我的youtube: https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
       - 🇨🇦 003加拿大∞直连
@@ -1096,7 +1096,7 @@ proxy-groups:
       - 白嫖群组 我的youtube: https://bit.ly/3oOSZUc
       - 白嫖频道 我的youtube: https://bit.ly/3oOSZUc
       - 我的youtube: https://bit.ly/3oOSZUc
-      - 国产频道 TG@TBBAC
+      - 我的youtube: https://bit.ly/3oOSZUc
       - 🇨🇦 001加拿大∞直连
       - 🇨🇦 002加拿大∞直连
       - 🇨🇦 003加拿大∞直连
