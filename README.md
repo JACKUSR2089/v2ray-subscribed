@@ -80,7 +80,8 @@ UFO VPN, FAST VPN, Free VPN, Super VPN, Flash VPN, Secure VPN, Rabbit VPN
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/3-28.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 
-v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2021-12-2
+v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2022.1-7
+clash订阅 :https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FJACKUSR2089%2Fv2ray-subscribed%2Fmaster%2F2022.1-7&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKgueCueabtOaWsGh0dHBzOi8vYml0Lmx5LzNvT1NaVWMiLA0KICAiYWRkIjogIjEwNC4yMS4xOTUuMjQ1IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjY3ZmJmYTg4LWY5ZTgtNGJjMS1iMTNiLTczMTQxYjY0YjM3ZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic3RlZXAtc2lsZW5jZS00NWNiMjAyMi5hbmdlbHNlbGFpbmEud29ya2Vycy5kZXYiLA0KICAicGF0aCI6ICIvNjdmYmZhODgtZjllOC00YmMxLWIxM2ItNzMxNDFiNjRiMzdlLXZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
 vless://e5af0cad-295c-37b2-b601-f35d13f6b1bb@104.21.195.245:443?encryption=none&security=tls&type=ws&host=cool-haze-dae3.angelselaina.workers.dev&path=%2fe5af0cad-295c-37b2-b601-f35d13f6b1bb-vless#%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3oOSZUc
