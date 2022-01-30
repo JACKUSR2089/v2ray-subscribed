@@ -80,7 +80,7 @@ UFO VPN, FAST VPN, Free VPN, Super VPN, Flash VPN, Secure VPN, Rabbit VPN
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/3-28.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 
-v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2022.1-7
+v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2022-1-31
 
 clash订阅 :https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2022-1-7.yaml
 
