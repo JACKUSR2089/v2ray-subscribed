@@ -1,4 +1,4 @@
-更新时间 2022-2.7 00:00
+更新时间 2022-2.21
 
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
@@ -109,7 +109,7 @@ UFO VPN, FAST VPN, Free VPN, Super VPN, Flash VPN, Secure VPN, Rabbit VPN
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/3-28.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 
-v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2022-2-7
+v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2021-2-21
 
 clash订阅 :https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022-2-7.yaml
 
