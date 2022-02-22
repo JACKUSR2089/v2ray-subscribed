@@ -1,4 +1,4 @@
-更新时间 2022-2.21
+更新时间 2022-2.22
 
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
@@ -112,6 +112,10 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/3-28.PNG)](https://s
 v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2021-2-21
 
 clash订阅 :https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022-2-7.yaml
+****
+trojan://22eed20e-884a-45ca-b167-1fe46d5603ab@104.18.27.64:443?security=tls&sni=vincent-jackson2022.ga&type=grpc&serviceName=The-Great-Awakening_trojangrpc&mode=gun#jp2022.ga
+trojan://22eed20e-884a-45ca-b167-1fe46d5603ab@104.16.16.255:443?security=tls&sni=vincent-jackson2022.ga&type=grpc&serviceName=The-Great-Awakening_trojangrpc&mode=gun#jp2022.ga
+
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4nOS6rDEzMi00IOiBlOmAmjEwME0rNEsgLTIiLA0KICAiYWRkIjogIjEwNC4xNy4zNi4xNzgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNWY0YjJlNDItZmYyYi00MzQyLTg2ZmMtYjdiYTFiNTM2MWU4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2aW5jZW50LWphY2tzb24yMDIyLmdhIiwNCiAgInBhdGgiOiAiL1RoZS1HcmVhdC1Bd2FrZW5pbmdfdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4nOS6rDEzMi0yMeiBlOmAmjEwME0rNEsiLA0KICAiYWRkIjogIjEwNC4xOC4yNy42NCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1ZjRiMmU0Mi1mZjJiLTQzNDItODZmYy1iN2JhMWI1MzYxZTgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInZpbmNlbnQtamFja3NvbjIwMjIuZ2EiLA0KICAicGF0aCI6ICIvVGhlLUdyZWF0LUF3YWtlbmluZ192d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
