@@ -6,7 +6,7 @@
 
 节点更新https://bit.ly/3oOSZUc
 
-请升级电脑端和安卓端到最新版(v2rayN4.11版以上）才可以支持trojan和vless！否则会无法使用trojan和vless！
+请升级电脑端和安卓端到最新版(v2rayN4.33版以上）才可以支持trojan和vless！否则会无法使用trojan和vless！
 
 请不要使用鴻蒙系統，使用華為手機的鴻蒙系統翻牆=1鍵喝茶】
 華為的鴻蒙系統與中共公安直接聯網，手機內的APP數據會得到來自公安的「安全監管」。
@@ -114,7 +114,7 @@ clash订阅 :https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/mast
 ****
 
  
-#vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.11版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
+#vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.33版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
