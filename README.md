@@ -1,4 +1,4 @@
-更新时间 2022-3-2
+更新时间 2022-3-11
 
 
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
@@ -112,6 +112,13 @@ https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/subscribed/2022-2-6.
 v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022-3-2
 clash订阅 :https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022-2-7.yaml
 ****
+vless://71452d0f-a921-49c2-b5a8-fc9fdd9cacb6@a911.567568.ml:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=a911.567568.ml&type=tcp&headerType=none&host=a911.567568.ml#%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3oOSZUc
+vless://71452d0f-a921-49c2-b5a8-fc9fdd9cacb6@a911.567568.ml:443?encryption=none&flow=xtls-rprx-splice&security=xtls&sni=a911.567568.ml&type=tcp&headerType=none&host=a911.567568.ml#%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0https%3a%2f%2fbit.ly%2f3oOSZUc_VLESS_XTLS%2fTLS-splice_TCP
+vless://71452d0f-a921-49c2-b5a8-fc9fdd9cacb6@a911.567568.ml:443?encryption=none&security=tls&sni=a911.567568.ml&type=ws&host=a911.567568.ml&path=%2ffinlandws#a911.567568.ml_VLESS_WS
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImE5MTEuNTY3NTY4Lm1sX3ZtZXNzX3dzIiwNCiAgImFkZCI6ICJhOTExLjU2NzU2OC5tbCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3MTQ1MmQwZi1hOTIxLTQ5YzItYjVhOC1mYzlmZGQ5Y2FjYjYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImE5MTEuNTY3NTY4Lm1sIiwNCiAgInBhdGgiOiAiL2ZpbmxhbmR2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiYTkxMS41Njc1NjgubWwiLA0KICAiYWxwbiI6ICIiDQp9
+vless://71452d0f-a921-49c2-b5a8-fc9fdd9cacb6@a911.567568.ml:443?encryption=none&security=tls&sni=a911.567568.ml&alpn=h2&type=grpc&serviceName=finlandgrpc&mode=gun#a911.567568.ml_VLESS_gRPC
+trojan://71452d0f-a921-49c2-b5a8-fc9fdd9cacb6@a911.567568.ml:443?security=tls&sni=a911.567568.ml&alpn=http1.1&type=tcp&headerType=none#a911.567568.ml_Trojan
+trojan://71452d0f-a921-49c2-b5a8-fc9fdd9cacb6@a911.567568.ml:443?security=tls&sni=a911.567568.ml&alpn=h2&type=grpc&serviceName=finlandtrojangrpc&mode=gun#a911.567568.ml_Trojan_gRPC
 
  
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.33版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
