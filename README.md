@@ -180,9 +180,8 @@ youtube 精选
                
 我的频道                         https://bit.ly/3oOSZUc          
  
-江峰时刻=100个老梁                 https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w
 
-江峰劇場                  https://www.youtube.com/channel/UCDpWE1rleECw7wFdwTy-hSQ
+
 
 天亮時分                  https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw
 
@@ -194,7 +193,6 @@ youtube 精选
 
 热点互动                   https://www.youtube.com/user/NTDChinaNewsChannel
 
-新聞最嘲點 Mr.姜光宇        https://www.youtube.com/channel/UC83_OQeEhmLZYsvJ7aTG3Bg
 
 李一平                     https://www.youtube.com/channel/UCLXvE-XNRIs7_GzEsEmMiRw
 
