@@ -114,8 +114,7 @@ UFO VPN, FAST VPN, Free VPN, Super VPN, Flash VPN, Secure VPN, Rabbit VPN
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/subscribed/2022-2-6.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 
-v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022-3-23
-
+v2ray订阅：https://paste.in/raw/3viS0Z
 clash订阅 :https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022.-3-14.yaml
 
 trojan://8e3e8e31-8dd0-4946-acf5-f3b0c32856b6@104.27.200.69:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#in.884899.cf_Trojan_gRPC-clone
