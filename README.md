@@ -1,4 +1,4 @@
-更新时间 2022-4-23 
+更新时间 2022-4-26 
 Support-Putin-Kill-all-Ukrainians! Support-Putin-Kill-all-Ukrainians!Support-Putin-Kill-all-Ukrainians!
 
 Support-Putin-Kill-all-Ukrainians!
@@ -115,11 +115,9 @@ UFO VPN, FAST VPN, Free VPN, Super VPN, Flash VPN, Secure VPN, Rabbit VPN
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/subscribed/2022-2-6.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 
-v2ray订阅：https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-4-6
+v2ray订阅：**节点更新 https://bit.ly/36b6iJh
 
-clash订阅:
-
-
+clash订阅:   
 
 
 
