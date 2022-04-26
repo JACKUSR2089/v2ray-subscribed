@@ -295,9 +295,6 @@ vless://616b53f1-c6a1-4695-a999-ce4d34dcbaf1@104.20.130.175:443?encryption=none&
 youtube 精选
                
 我的频道                       节点更新 https://bit.ly/36b6iJh     
- 
-
-
 
 天亮時分                  https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw
 
@@ -309,11 +306,7 @@ youtube 精选
 
 热点互动                   https://www.youtube.com/user/NTDChinaNewsChannel
 
-
-李一平                     https://www.youtube.com/channel/UCLXvE-XNRIs7_GzEsEmMiRw
-
-吴建民                     https://www.youtube.com/c/%E6%96%AF%E5%87%A1%E5%90%B4%E5%BB%BA%E6%B0%91/videos
-
+                
 大陆新闻解毒                https://www.youtube.com/channel/UC3C919BI3dyDCgQHQVXY6Vg
 
 Fashion Channel            https://www.youtube.com/c/FashionChannel/videos
