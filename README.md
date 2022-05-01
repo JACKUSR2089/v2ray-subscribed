@@ -294,9 +294,7 @@ vless://616b53f1-c6a1-4695-a999-ce4d34dcbaf1@104.20.130.175:443?encryption=none&
 翻出去看什么
 youtube 精选
                
-我的频道                       节点更新 https://bit.ly/36b6iJh     
-
-天亮時分                  https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw
+我的频道                       节点更新 https://bit.ly/36b6iJh               
 
 李肅Hi5第一頻道            https://www.youtube.com/channel/UCvpX0E9dK-40zwYShv186oA
 
