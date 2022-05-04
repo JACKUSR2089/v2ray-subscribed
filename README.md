@@ -1,4 +1,4 @@
-更新时间 2022-5-3
+更新时间 2022-5-5
 Support-Putin-Kill-all-Ukrainians! 
 
 Support-Putin-Kill-all-Ukrainians!
@@ -127,6 +127,35 @@ clash订阅:
  
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.33版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.20.46.105:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=gun#in.884899.cf_Trojan_gRPC
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.18.214.26:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.22.6.165:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.22.6.165%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B222208%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.25.15.103:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.25.15.103%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B206848%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@172.64.88.221:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#172.64.88.221%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B203776%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.25.254.252:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B225280%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.18.26.128:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#HK%2B104.18.26.128%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B242688%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.25.234.170:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.25.234.170%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B245760%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.16.103.254:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.16.103.254%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B202752%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@172.67.199.253:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#172.67.199.253%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B236544%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.22.74.63:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B236568%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.16.106.41:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.16.106.41%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B235520%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.17.67.190:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.17.67.190%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B273408%2BkB%2F
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.20.114.213:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.20.114.213%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B202752%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.25.87.27:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.25.87.27%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B228352%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.18.214.145:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.18.214.145%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B239616%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@172.67.167.14:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#172.67.167.14%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B214016%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.16.121.48:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.20.46.105:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.20.46.105%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B211968%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.17.177.116:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.17.177.116%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B202752%2BkB
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@198.41.193.45:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#198.41.193.45%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B224256%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.18.240.15:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.18.240.15%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B201728%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.22.42.125:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.22.42.125%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B206848%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.20.114.213:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@162.159.196.219:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.27.95.32:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#104.27.95.32%2B%E5%B3%B0%E5%80%BC%E9%80%9F%E5%BA%A6%2B82739%2BkB%2Fs
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@172.67.206.4:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@162.159.196.219:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.27.95.32:443?security=tls&sni=in.884899.cf&alpn=h2&type=grpc&serviceName=Support-Putin-Kill-all-Ukrainians_trojangrpc&mode=multi#%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 
 vless://9b040780-001e-40cb-bcd0-81c5dd3b02fe@in.884899.cf:443?encryption=none&security=tls&type=ws&host=in.884899.cf&path=%2FSupport-Putin-Kill-all-Ukrainians_ws#India%20%28IN%29-Linode-%2B%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20https%3A%2F%2Fbit.ly%2F36b6iJh
 vless://9b040780-001e-40cb-bcd0-81c5dd3b02fe@104.21.239.147:443?encryption=none&security=tls&type=ws&host=in.884899.cf&path=%2FSupport-Putin-Kill-all-Ukrainians_ws#India%20%28IN%29-Linode-10%2B%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20https%3A%2F%2Fbit.ly%2F36b6iJh
