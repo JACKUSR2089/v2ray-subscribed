@@ -1,4 +1,4 @@
-更新时间 2022-6-26
+更新时间 2022-7-1
 Support-Putin-Kill-all-Ukrainians! 
 
 Support-Putin-Kill-all-Ukrainians!
@@ -133,6 +133,13 @@ clash订阅:
  
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.33版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+trojan://4431e7bf-b8b2-4f1f-9b6d-50c021483f75@youtube-bai-piao-wang-zhe.nl.884899.cf:14201?security=tls&sni=youtube-bai-piao-wang-zhe.nl.884899.cf&type=tcp&headerType=none&host=youtube-bai-piao-wang-zhe.nl.884899.cf#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://7aedb685-1a82-4310-a5af-f4f19b2d3722@youtube-bai-piao-wang-zhe.nl.884899.cf:55506?encryption=none&security=none&type=tcp&headerType=none#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://567b152a-f6ac-442b-eb03-0f8eedb2f45f@youtube-bai-piao-wang-zhe.nl.884899.cf:48857?encryption=none&security=none&type=kcp&headerType=none&seed=wwXKVG2mrF#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://4431e7bf-b8b2-4f1f-9b6d-50c021483f75@youtube-bai-piao-wang-zhe.nl.884899.cf:11528?security=tls&type=tcp&headerType=none#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://94afcc56-cc1c-4cd4-8c82-1215cd052795@youtube-bai-piao-wang-zhe.nl.884899.cf:41196?security=tls&type=tcp&headerType=none#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://ad63d914-c3d8-4b1c-f73b-41a307bb7e66@youtube-bai-piao-wang-zhe.nl.884899.cf:42752?encryption=none&security=tls&sni=youtube-bai-piao-wang-zhe.nl.884899.cf&type=ws&host=youtube-bai-piao-wang-zhe.nl.884899.cf&path=%2Fyoutube%40bai-piao-wang-zhe.#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://b7099037-ea82-496f-cc6b-396b463455aa@youtube-bai-piao-wang-zhe.nl.884899.cf:29037?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 
 trojan://6d2b7ae6-7b67-4116-b6ae-3069c54d2042@youtube-bai-piao-wang-zhe.98848.xyz:11610?security=tls&type=tcp&headerType=none#us255%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 vless://ac36c336-0f1e-496c-a9ee-4ceb989aee3c@youtube-bai-piao-wang-zhe.98848.xyz:22871?encryption=none&security=none&type=kcp&headerType=none&seed=youtube%40bai-piao-wang-zhe#kcp
