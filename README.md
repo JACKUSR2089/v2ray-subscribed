@@ -133,6 +133,10 @@ clash订阅:
  
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.33版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+trojan://f75fa8d0-52ea-4858-fbf2-ace7e2be7fb7@bai-piao-wang-zhe-iplc6.98848.xyz:34276?security=tls&type=tcp&headerType=none
+vless://d8a69b0f-0b9c-4c30-e277-ee34d9c60643@bai-piao-wang-zhe-iplc6.98848.xyz:46860?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none
+
+
 trojan://7685022af-2086-454c-8725-8ff6b6ab1d13@bai-piao-wang-zhe-iplc6.98848.xyz:26746?security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 vless://f75fa8d0-52ea-4858-fbf2-ace7e2be7fb7@bai-piao-wang-zhe-iplc6.98848.xyz:39429?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
 vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
