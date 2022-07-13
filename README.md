@@ -1,4 +1,4 @@
-更新时间 2022-7-1
+更新时间 2022-7-14
 Support-Putin-Kill-all-Ukrainians! 
 
 Support-Putin-Kill-all-Ukrainians!
@@ -133,6 +133,15 @@ clash订阅:
  
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.33版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+trojan://7685022af-2086-454c-8725-8ff6b6ab1d13@bai-piao-wang-zhe-iplc6.98848.xyz:26746?security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://f75fa8d0-52ea-4858-fbf2-ace7e2be7fb7@bai-piao-wang-zhe-iplc6.98848.xyz:39429?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
+vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
+vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?encryption=none&flow=xtls-rprx-splice&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?security=tls&sni=ca96.98848.xyz&alpn=http%2F1.1&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
+trojan://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?security=tls&sni=ca96.98848.xyz&alpn=http%2F1.1&type=tcp&headerType=none&host=ca96.98848.xyz#ca96%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@ca96.98848.xyz:443?encryption=none&flow=xtls-rprx-splice&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
+
 trojan://4431e7bf-b8b2-4f1f-9b6d-50c021483f75@youtube-bai-piao-wang-zhe.nl.884899.cf:14201?security=tls&sni=youtube-bai-piao-wang-zhe.nl.884899.cf&type=tcp&headerType=none&host=youtube-bai-piao-wang-zhe.nl.884899.cf#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 vless://7aedb685-1a82-4310-a5af-f4f19b2d3722@youtube-bai-piao-wang-zhe.nl.884899.cf:55506?encryption=none&security=none&type=tcp&headerType=none#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 vless://567b152a-f6ac-442b-eb03-0f8eedb2f45f@youtube-bai-piao-wang-zhe.nl.884899.cf:48857?encryption=none&security=none&type=kcp&headerType=none&seed=wwXKVG2mrF#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
