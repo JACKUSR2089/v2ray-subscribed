@@ -134,38 +134,15 @@ clash订阅:
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.33版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBW+ebtOi/nl0gMXggMUcvUyDoioLngrnmm7TmlrAgYml0Lmx5LzM2YjZpSmgiLA0KICAiYWRkIjogImJhaS1waWFvLXdhbmctemhlLWlwbGM2Ljk4ODQ4Lnh5eiIsDQogICJwb3J0IjogIjI4NjQ0IiwNCiAgImlkIjogIjdlNzAwNWU1LTYwZjYtNGIzMy1hNTE5LTM2ZWE0NTBjNzhlNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+trojan://YaTDEClHYi@bai-piao-wang-zhe-iplc6.98848.xyz:15694?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://UUDMpcV8jN@bai-piao-wang-zhe-iplc6.98848.xyz:23483?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://m7I14MJVMM@bai-piao-wang-zhe-iplc6.98848.xyz:34694?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://I5aSYTe13f@bai-piao-wang-zhe-iplc6.98848.xyz:36157?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://efc0ab1c-4925-477a-d64b-a31589c4217c@bai-piao-wang-zhe-iplc6.98848.xyz:50397?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://a7e9dbdd-b66b-4424-ad8a-d75b0c54ed59@bai-piao-wang-zhe-iplc6.98848.xyz:40753?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=ws&host=bing.com&path=%2Fyoutube%40bai-piao-wang-zhe#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://37c44fb5-87d7-43e6-d4f1-87098986b2cc@bai-piao-wang-zhe-iplc6.98848.xyz:37021?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://37c44fb5-87d7-43e6-d4f1-87098986b2cc@ca96.98848.xyz:37021?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 
-
-trojan://7685022af-2086-454c-8725-8ff6b6ab1d13@bai-piao-wang-zhe-iplc6.98848.xyz:26746?security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://f75fa8d0-52ea-4858-fbf2-ace7e2be7fb7@bai-piao-wang-zhe-iplc6.98848.xyz:39429?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
-vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
-vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?encryption=none&flow=xtls-rprx-splice&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?security=tls&sni=ca96.98848.xyz&alpn=http%2F1.1&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
-trojan://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?security=tls&sni=ca96.98848.xyz&alpn=http%2F1.1&type=tcp&headerType=none&host=ca96.98848.xyz#ca96%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-
-trojan://7685022af-2086-454c-8725-8ff6b6ab1d13@bai-piao-wang-zhe-iplc6.98848.xyz:26746?security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://f75fa8d0-52ea-4858-fbf2-ace7e2be7fb7@bai-piao-wang-zhe-iplc6.98848.xyz:39429?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
-vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
-vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?encryption=none&flow=xtls-rprx-splice&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?security=tls&sni=ca96.98848.xyz&alpn=http%2F1.1&type=tcp&headerType=none#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
-trojan://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?security=tls&sni=ca96.98848.xyz&alpn=http%2F1.1&type=tcp&headerType=none&host=ca96.98848.xyz#ca96%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@ca96.98848.xyz:443?encryption=none&flow=xtls-rprx-splice&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://13c2a459-84eb-4707-83fa-b77babeb9d5a@bai-piao-wang-zhe-iplc6.98848.xyz:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=ca96.98848.xyz&type=tcp&headerType=none&host=ca96.98848.xyz#CA%20%5B%E7%9B%B4%E8%BF%9EC%5D%201x%205Gbp%2Fs
-
-trojan://4431e7bf-b8b2-4f1f-9b6d-50c021483f75@youtube-bai-piao-wang-zhe.nl.884899.cf:14201?security=tls&sni=youtube-bai-piao-wang-zhe.nl.884899.cf&type=tcp&headerType=none&host=youtube-bai-piao-wang-zhe.nl.884899.cf#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://7aedb685-1a82-4310-a5af-f4f19b2d3722@youtube-bai-piao-wang-zhe.nl.884899.cf:55506?encryption=none&security=none&type=tcp&headerType=none#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://567b152a-f6ac-442b-eb03-0f8eedb2f45f@youtube-bai-piao-wang-zhe.nl.884899.cf:48857?encryption=none&security=none&type=kcp&headerType=none&seed=wwXKVG2mrF#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://4431e7bf-b8b2-4f1f-9b6d-50c021483f75@youtube-bai-piao-wang-zhe.nl.884899.cf:11528?security=tls&type=tcp&headerType=none#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://94afcc56-cc1c-4cd4-8c82-1215cd052795@youtube-bai-piao-wang-zhe.nl.884899.cf:41196?security=tls&type=tcp&headerType=none#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://ad63d914-c3d8-4b1c-f73b-41a307bb7e66@youtube-bai-piao-wang-zhe.nl.884899.cf:42752?encryption=none&security=tls&sni=youtube-bai-piao-wang-zhe.nl.884899.cf&type=ws&host=youtube-bai-piao-wang-zhe.nl.884899.cf&path=%2Fyoutube%40bai-piao-wang-zhe.#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://b7099037-ea82-496f-cc6b-396b463455aa@youtube-bai-piao-wang-zhe.nl.884899.cf:29037?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#States%20%28US%29Californiated%205Gbp%2Fs%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-
-trojan://6d2b7ae6-7b67-4116-b6ae-3069c54d2042@youtube-bai-piao-wang-zhe.98848.xyz:11610?security=tls&type=tcp&headerType=none#us255%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://ac36c336-0f1e-496c-a9ee-4ceb989aee3c@youtube-bai-piao-wang-zhe.98848.xyz:22871?encryption=none&security=none&type=kcp&headerType=none&seed=youtube%40bai-piao-wang-zhe#kcp
-trojan://6d2b7ae6-7b67-4116-b6ae-3069c54d2042@youtube-bai-piao-wang-zhe.98848.xyz:43126?security=tls&type=tcp&headerType=none#us255%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://40dab212-c04c-4592-aefb-81b290b63775@youtube-bai-piao-wang-zhe.98848.xyz:51444?security=tls&type=tcp&headerType=none#youtube%40bai-piao-wang-zhe
-trojan://youtube@bai-piao-wang-zhe@youtube-bai-piao-wang-zhe.98848.xyz:18991?security=tls&sni=youtube-bai-piao-wang-zhe.98848.xyz&type=tcp&headerType=none#666
-trojan://youtube@bai-piao-wang-zhe@youtube-bai-piao-wang-zhe.98848.xyz:25476?security=tls&sni=youtube-bai-piao-wang-zhe.98848.xyz&type=tcp&headerType=none#us255%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 
 
 
