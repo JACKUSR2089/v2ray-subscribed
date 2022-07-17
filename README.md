@@ -1,4 +1,4 @@
-更新时间 2022-7-15
+更新时间 2022-7-17
 Support-Putin-Kill-all-Ukrainians! 
 
 Support-Putin-Kill-all-Ukrainians!
@@ -134,29 +134,22 @@ clash订阅:
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.33版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-trojan://67aUrSUvM7@bai-piao-wang-zhe-iplc6.98848.xyz:443?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://d13a870b-5888-4cb8-cbf7-4e4c6a6b0cb4@bai-piao-wang-zhe-iplc6.98848.xyz:45406?encryption=none&security=none&type=kcp&headerType=none&seed=%40bai-piao-wang-zhe#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://d13a870b-5888-4cb8-cbf7-4e4c6a6b0cb4@bai-piao-wang-zhe-iplc6.98848.xyz:21478?security=tls&type=tcp&headerType=none#bai-piao-wang-zhe-iplc6.98848.xyz
-trojan://d13a870b-5888-4cb8-cbf7-4e4c6a6b0cb4@bai-piao-wang-zhe-iplc6.98848.xyz:22883?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://zAQX7WNBFV@bai-piao-wang-zhe-iplc6.98848.xyz:15756?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://d13a870b-5888-4cb8-cbf7-4e4c6a6b0cb4@bai-piao-wang-zhe-iplc6.98848.xyz:47998?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+
+trojan://d13a870b-5888-4cb8-cbf7-4e4c6a6b0cb4@usa23.884899.cf:21478?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 vless://00751319-6da0-4a7a-b7f2-bf826575c933@bai-piao-wang-zhe-iplc6.98848.xyz:47319?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://d13a870b-5888-4cb8-cbf7-4e4c6a6b0cb4@bai-piao-wang-zhe-iplc6.98848.xyz:18896?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=ws&host=bing.com&path=%2Fyoutube%40bai-piao-wang-zhe#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBW+ebtOi/nl0gMXggMUcvUyDoioLngrnmm7TmlrAgYml0Lmx5LzM2YjZpSmgiLA0KICAiYWRkIjogImJhaS1waWFvLXdhbmctemhlLWlwbGM2Ljk4ODQ4Lnh5eiIsDQogICJwb3J0IjogIjQxMTE1IiwNCiAgImlkIjogIjgyYTEwYWQyLTg3NmItNDUxNC04NDliLTAyMmQ2ZmE5MmM5NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYmluZy5jb20iLA0KICAicGF0aCI6ICIveW91dHViZUBiYWktcGlhby13YW5nLXpoZSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
-vless://e93241fa-9052-403a-d044-f9a150aee5b6@bai-piao-wang-zhe-iplc6.98848.xyz:51767?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=grpc&serviceName=bing%2Ccom&mode=gun#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://00751319-6da0-4a7a-b7f2-bf826575c933@bai-piao-wang-zhe-iplc6.98848.xyz:47319?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://zAQX7WNBFV@bai-piao-wang-zhe-iplc6.98848.xyz:15752?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://d13a870b-5888-4cb8-cbf7-4e4c6a6b0cb4@bai-piao-wang-zhe-iplc6.98848.xyz:37681?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=ws&host=bing.com&path=%2Fyoutube%40bai-piao-wang-zhe#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://m4u97SHa5I@bai-piao-wang-zhe-iplc6.98848.xyz:48563?security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBW+ebtOi/nl0gMXggMUcvUyDoioLngrnmm7TmlrAgYml0Lmx5LzM2YjZpSmgiLA0KICAiYWRkIjogImJhaS1waWFvLXdhbmctemhlLWlwbGM2Ljk4ODQ4Lnh5eiIsDQogICJwb3J0IjogIjE5MTc5IiwNCiAgImlkIjogIjZjZDczZWZmLTMxZjMtNDI5ZC1iNWRlLTM4NzExMjEzMzVlZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYmluZy5jb20iLA0KICAicGF0aCI6ICIveW91dGJ1ZUBiYWktcGlhby13YW5nLXpoZV93cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+vless://9ff6550b-4d8e-410e-d251-d402768556d7@bai-piao-wang-zhe-iplc6.98848.xyz:55008?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://9ff6550b-4d8e-410e-d251-d402768556d7@usa23.884899.cf:55008?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+trojan://m4u97SHa5I@usa23.884899.cf:48563?security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
+vless://d13a870b-5888-4cb8-cbf7-4e4c6a6b0cb4@bai-piao-wang-zhe-iplc6.98848.xyz:45406?encryption=none&security=none&type=kcp&headerType=none&seed=%40bai-piao-wang-zhe#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 
 
 
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBW+ebtOi/nl0gMXggMUcvUyDoioLngrnmm7TmlrAgYml0Lmx5LzM2YjZpSmgiLA0KICAiYWRkIjogImJhaS1waWFvLXdhbmctemhlLWlwbGM2Ljk4ODQ4Lnh5eiIsDQogICJwb3J0IjogIjI4NjQ0IiwNCiAgImlkIjogIjdlNzAwNWU1LTYwZjYtNGIzMy1hNTE5LTM2ZWE0NTBjNzhlNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
-trojan://YaTDEClHYi@bai-piao-wang-zhe-iplc6.98848.xyz:15694?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://UUDMpcV8jN@bai-piao-wang-zhe-iplc6.98848.xyz:23483?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://m7I14MJVMM@bai-piao-wang-zhe-iplc6.98848.xyz:34694?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-trojan://I5aSYTe13f@bai-piao-wang-zhe-iplc6.98848.xyz:36157?security=tls&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://efc0ab1c-4925-477a-d64b-a31589c4217c@bai-piao-wang-zhe-iplc6.98848.xyz:50397?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://a7e9dbdd-b66b-4424-ad8a-d75b0c54ed59@bai-piao-wang-zhe-iplc6.98848.xyz:40753?encryption=none&security=tls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=ws&host=bing.com&path=%2Fyoutube%40bai-piao-wang-zhe#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://37c44fb5-87d7-43e6-d4f1-87098986b2cc@bai-piao-wang-zhe-iplc6.98848.xyz:37021?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
-vless://37c44fb5-87d7-43e6-d4f1-87098986b2cc@ca96.98848.xyz:37021?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=bai-piao-wang-zhe-iplc6.98848.xyz&type=tcp&headerType=none#CA%5B%E7%9B%B4%E8%BF%9E%5D%201x%201G%2FS%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 
 
 
