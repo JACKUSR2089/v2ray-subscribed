@@ -3468,7 +3468,7 @@ EOF
 # 脚本快捷方式
 aliasInstall() {
 
-	if [[ -f "$HOME/install.sh" ]] && [[ -d "/etc/v2ray-agent" ]] && grep <"$HOME/install.sh" -q "作者:以死"; then
+	if [[ -f "$HOME/install.sh" ]] && [[ -d "/etc/v2ray-agent" ]] && grep <"$HOME/install.sh" -q "作者:mack-a"; then
 		mv "$HOME/install.sh" /etc/v2ray-agent/install.sh
 		local vasmaType=
 		if [[ -d "/usr/bin/" ]]; then
@@ -3903,7 +3903,7 @@ dokodemoDoorUnblockStreamingMedia() {
 	echoContent skyBlue "\n功能 1/${totalProgress} : 任意门落地机解锁流媒体"
 	echoContent red "\n=============================================================="
 	echoContent yellow "# 注意事项"
-	echoContent yellow "任意门解锁详解，请查看此文章[bit.ly/36b6iJh]\n"
+	echoContent yellow "任意门解锁详解，请查看此文章[https://github.com/mack-a/v2ray-agent/blob/master/documents/netflix/dokodemo-unblock_netflix.md]\n"
 
 	echoContent yellow "1.添加出站"
 	echoContent yellow "2.添加入站"
@@ -4720,14 +4720,14 @@ switchAlpn() {
 menu() {
 	cd "$HOME" || exit
 	echoContent red "\n=============================================================="
+	echoContent green "作者:mack-a"
 	echoContent green "当前版本:v2.5.72"
-	echoContent green "Github:https://github.com/mack-a/v2ray-agent"
 	echoContent green "描述:八合一共存脚本\c"
 	showInstallStatus
 	echoContent red "\n=============================================================="
 	echoContent red "                        推广区                      "
-	echoContent green "数字钱包地址：https://telegra.ph/7567-07-25-3"
-	echoContent green "虚拟币捐赠：USDT-TRC20 地址:
+	echoContent green "https://telegra.ph/7567-07-25-3"
+	echoContent green "虚拟币捐赠USDT-TRC20 USDT充币地址
 TMkRymhb8PzpEFjWVzYyNiwwoGpStcUstr"
 	echoContent green "推广可联系 gouubk@gmail.com"
 	echoContent red "=============================================================="
