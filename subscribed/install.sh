@@ -4729,7 +4729,7 @@ menu() {
 	echoContent red "                        推广区                      "
 	echoContent green "AFF捐赠：https://telegra.ph/7567-07-25-3"
 	echoContent green "虚拟币捐赠usdt-trc20：TMkRymhb8PzpEFjWVzYyNiwwoGpStcUstr"
-	echoContent green "推广可联系goubk@gmail.com"
+	echoContent green "推广可联系gouubk@gmail.com"
 	echoContent red "=============================================================="
 	if [[ -n "${coreInstallType}" ]]; then
 		echoContent yellow "1.重新安装"
