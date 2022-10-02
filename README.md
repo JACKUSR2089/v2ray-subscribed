@@ -1,4 +1,4 @@
-更新时间 2022-9-6
+更新时间 2022-10-2
 Support-Putin-Kill-all-Ukrainians! 
 
 Support-Putin-Kill-all-Ukrainians!
@@ -10,7 +10,7 @@ Support-Putin-Kill-all-Ukrainians!
 免费提供V2ray torjan ss ssr 节点，免费教授翻墙技术，无需注册，不限速，不限量！我希望每一个中国人都跨过GFW！
 为了您的使用体验, 建议请大家订阅我的频道， 防止后续节点优化升级无法使用！  
 
-节点更新 https://bit.ly/36b6iJh  (订阅链接在最新一个视频说明区）
+节点更新 https://is.gd/30C03I (订阅链接在最新一个视频说明区）
 
 请升级电脑端和安卓端到最新版(v2rayN5.3版以上）才可以支持trojan和vless！否则会无法使用trojan和vless！
 
@@ -134,18 +134,6 @@ clash订阅:
 #vless#VMESS#Torjan#ss#ssr(请升级电脑端和安卓端到最新版v2rayN4.33版以上,才可以支持trojan和vless！否则会无法使用trojan和vless！)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-vless://5d61aca3-b911-430b-9b19-d97ef3b1bf0c@youtube-bai-piao-wang-zhe-us.98848.xyz:40109?encryption=none&security=none&type=kcp&headerType=none&seed=PGAeU0Ux8q#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-vless://87692198-6926-4e98-9baf-9198ffd1e73d@youtube-bai-piao-wang-zhe-us.98848.xyz:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=youtube-bai-piao-wang-zhe-us.98848.xyz&type=tcp&headerType=none&host=youtube-bai-piao-wang-zhe-us.98848.xyz#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-vless://87692198-6926-4e98-9baf-9198ffd1e73d@youtube-bai-piao-wang-zhe-us.98848.xyz:443?encryption=none&flow=xtls-rprx-splice&security=xtls&sni=youtube-bai-piao-wang-zhe-us.98848.xyz&type=tcp&headerType=none&host=youtube-bai-piao-wang-zhe-us.98848.xyz#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-vless://87692198-6926-4e98-9baf-9198ffd1e73d@youtube-bai-piao-wang-zhe-us.98848.xyz:443?encryption=none&security=tls&sni=youtube-bai-piao-wang-zhe-us.98848.xyz&type=ws&host=youtube-bai-piao-wang-zhe-us.98848.xyz&path=%2Fyoutbue%40bai-piao-wang-zhe_ws#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiKrOWFsCAoRkkpIFtMVjPCt+WOn+eUn10g6IqC54K55pu05pawIGJpdC5seS8zNmI2aUpoIiwNCiAgImFkZCI6ICJ5b3V0dWJlLWJhaS1waWFvLXdhbmctemhlLXVzLjk4ODQ4Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI4NzY5MjE5OC02OTI2LTRlOTgtOWJhZi05MTk4ZmZkMWU3M2QiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInlvdXR1YmUtYmFpLXBpYW8td2FuZy16aGUtdXMuOTg4NDgueHl6IiwNCiAgInBhdGgiOiAiL3lvdXRidWVAYmFpLXBpYW8td2FuZy16aGVfdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInlvdXR1YmUtYmFpLXBpYW8td2FuZy16aGUtdXMuOTg4NDgueHl6IiwNCiAgImFscG4iOiAiIg0KfQ==
-vless://87692198-6926-4e98-9baf-9198ffd1e73d@youtube-bai-piao-wang-zhe-us.98848.xyz:443?encryption=none&security=tls&sni=youtube-bai-piao-wang-zhe-us.98848.xyz&alpn=h2&type=grpc&serviceName=youtbue%40bai-piao-wang-zhe_grpc&mode=gun#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-trojan://87692198-6926-4e98-9baf-9198ffd1e73d@youtube-bai-piao-wang-zhe-us.98848.xyz:443?security=tls&sni=youtube-bai-piao-wang-zhe-us.98848.xyz&alpn=http%2F1.1&type=tcp&headerType=none#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-trojan://87692198-6926-4e98-9baf-9198ffd1e73d@youtube-bai-piao-wang-zhe-us.98848.xyz:443?security=tls&sni=youtube-bai-piao-wang-zhe-us.98848.xyz&alpn=h2&type=grpc&serviceName=youtbue%40bai-piao-wang-zhe_trojangrpc&mode=gun#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-trojan://7pHdS1cNuq@youtube-bai-piao-wang-zhe-us.98848.xyz:30355?security=tls&type=tcp&headerType=none#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-vless://36e62176-2533-4fbb-fe47-1fca1118ba8c@youtube-bai-piao-wang-zhe-us.98848.xyz:29204?encryption=none&security=none&type=kcp&headerType=none&seed=youtube%40bai-piao-wang-zhe#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-vless://c2da7234-b170-477d-f850-5f780d2b28f7@youtube-bai-piao-wang-zhe-us.98848.xyz:14785?encryption=none&security=tls&sni=youtube-bai-piao-wang-zhe-us.98848.xyz&type=ws&host=bing.com&path=%2Fyoutube%40bai-piao-wang-zhe#%20%E8%8A%AC%E5%85%B0%20%28FI%29%20%5BLV3%C2%B7%E5%8E%9F%E7%94%9F%5D%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh%20
-trojan://2d000c47-7db5-4bc1-97c3-a3df763adbeb@us02.henet.cyou:30000?security=tls&type=tcp&headerType=none#US%2029%20%E2%86%92%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%20bit.ly%2F36b6iJh
 
 
 
@@ -154,7 +142,7 @@ trojan://2d000c47-7db5-4bc1-97c3-a3df763adbeb@us02.henet.cyou:30000?security=tls
 翻出去看什么
 youtube 精选
                
-我的频道                       节点更新 https://bit.ly/36b6iJh               
+我的频道                       节点更新 https://is.gd/30C03I            
 
 李肅Hi5第一頻道            https://www.youtube.com/channel/UCvpX0E9dK-40zwYShv186oA
 
