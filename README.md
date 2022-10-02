@@ -121,8 +121,8 @@ UFO VPN, FAST VPN, Free VPN, Super VPN, Flash VPN, Secure VPN, Rabbit VPN
 https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/subscribed/2022-2-6.PNG)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
 
 
-v2ray订阅：**节点更新 https://bit.ly/36b6iJh
-
+v2ray订阅：**节点更新 [https://bit.ly/36b6iJh
+](https://is.gd/30C03I)
 clash订阅:   
 
 
